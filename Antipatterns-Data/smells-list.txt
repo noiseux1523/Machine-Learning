@@ -1,0 +1,9 @@
+smells-sql12.txt
+smells-jruby-1.4.0.txt
+smells-jfreechart-1.0.19.txt
+smells-jEdit.txt
+smells-hibernate-distribution-3.3.2.GA.txt
+smells-columba-1.4-src.txt
+smells-argoUML-034.txt
+smells-apache-jmeter-2.10.txt
+smells-apache-ant-1.7.0.txt

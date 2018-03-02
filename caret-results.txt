@@ -1,0 +1,63 @@
+gbm1
+Area under the curve: 0.7135
+[1] "Precision:  0 Recall:  NaN Specificity:  0.9375 F1:  0 F2:  NaN"
+gbm2
+Area under the curve: 0.649
+[1] "Precision:  0 Recall:  0 Specificity:  0.936507936507937 F1:  0 F2:  NaN"
+gbm3
+Area under the curve: 0.8167
+[1] "Precision:  0 Recall:  NaN Specificity:  0.9375 F1:  0 F2:  NaN"
+
+glm1
+Area under the curve: 0.4365
+[1] "Precision:  0 Recall:  0 Specificity:  0.936507936507937 F1:  0 F2:  NaN"
+glm2
+Area under the curve: 0.5833
+[1] "Precision:  0.25 Recall:  0.166666666666667 Specificity:  0.948275862068966 F1:  0.2 F2:  0.2"
+glm3
+Area under the curve: 0.675
+[1] "Precision:  0.75 Recall:  0.111111111111111 Specificity:  0.972972972972973 F1:  0.193548387096774 F2:  0.193548387096774"
+
+nnet1
+Area under the curve: 0.824
+[1] "Precision:  0.25 Recall:  0.5 Specificity:  0.951612903225806 F1:  0.333333333333333 F2:  0.333333333333333"
+nnet2
+Area under the curve: 0.6766
+[1] "Precision:  0.125 Recall:  0.111111111111111 Specificity:  0.941176470588235 F1:  0.117647058823529 F2:  0.117647058823529"
+nnet3
+Area under the curve: 0.8984
+[1] "Precision:  0 Recall:  NaN Specificity:  0.9375 F1:  0 F2:  NaN"
+
+treebag1
+Area under the curve: 0.4839
+[1] "Precision:  0 Recall:  0 Specificity:  0.936507936507937 F1:  0 F2:  NaN"
+treebag2
+Area under the curve: 0.5724
+[1] "Precision:  0 Recall:  0 Specificity:  0.937007874015748 F1:  0 F2:  NaN"
+treebag3
+Area under the curve: 0.6521
+[1] "Precision:  0.25 Recall:  0.333333333333333 Specificity:  0.950819672131147 F1:  0.285714285714286 F2:  0.285714285714286"
+
+fda1
+Area under the curve: 0.5292
+[1] "Precision:  0.125 Recall:  0.111111111111111 Specificity:  0.941176470588235 F1:  0.117647058823529 F2:  0.117647058823529"
+fda2
+Area under the curve: 0.5578
+[1] "Precision:  0 Recall:  0 Specificity:  0.937007874015748 F1:  0 F2:  NaN"
+fda3
+Area under the curve: 0.4672
+[1] "Precision:  0 Recall:  0 Specificity:  0.936 F1:  0 F2:  NaN"
+
+bagFDAGCV1
+Area under the curve: 0.7208
+[1] "Precision:  0 Recall:  0 Specificity:  0.936 F1:  0 F2:  NaN"
+bagFDAGCV2
+Area under the curve: 0.6458
+[1] "Precision:  0 Recall:  NaN Specificity:  0.9375 F1:  0 F2:  NaN"
+bagFDAGCV3
+Area under the curve: 0.4917
+[1] "Precision:  0.125 Recall:  0.333333333333333 Specificity:  0.944 F1:  0.181818181818182 F2:  0.181818181818182"
+
+bagFDA1
+Area under the curve: 0.7594
+[1] "Precision:  0 Recall:  0 Specificity:  0.934959349593496 F1:  0 F2:  NaN"

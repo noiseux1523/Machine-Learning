@@ -1,0 +1,592 @@
+apache-ant-1.7.0 - src/main/org/apache/tools/ant/taskdefs/optional/junit/SummaryJUnitResultFormatter.java - endTest - 1 LongMethod({METHOD_LOC_MaxBound=57.5, METHOD_LOC_UpperQuartile=23.0},23.0,org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter,LongMethod,endTestSuite(unknown.ghost.packag.JUnitTest[]))
+
+apache-ant-1.7.0 - src/main/org/apache/tools/ant/taskdefs/optional/junit/SummaryJUnitResultFormatter.java - endTestSuite - 1 LongMethod({METHOD_LOC_MaxBound=57.5, METHOD_LOC_UpperQuartile=23.0},23.0,org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter,LongMethod,endTestSuite(unknown.ghost.packag.JUnitTest[]))
+
+apache-ant-1.7.0 - src/main/org/apache/tools/ant/types/optional/depend/DependScanner.java - scan - 1 LongMethod(org.apache.tools.ant.types.optional.depend.DependScanner,scan(),{METHOD_LOC_MaxBound=57.5, METHOD_LOC_UpperQuartile=23.0},23.0,LongMethod)
+
+apache-ant-1.7.0 - src/main/org/apache/tools/mail/MailMessage.java - to - 1 LazyClass(14.0,org.apache.tools.mail.MailPrintStream,{WMC_MinBound=0.0, WMC_LowerQuartile=14.0},6.0,{NMD_NAD_MinBound=0.0, NMD_NAD_LowerQuartile=6.0},LazyClass);1 LongMethod(sanitizeAddress(java.lang.String[]),21.0,LongMethod,org.apache.tools.mail.MailMessage,{METHOD_LOC_MaxBound=40.5, METHOD_LOC_UpperQuartile=21.0})
+
+apache-ant-1.7.0 - src/main/org/apache/tools/mail/MailMessage.java - sanitizeAddress - 1 LazyClass(14.0,org.apache.tools.mail.MailPrintStream,{WMC_MinBound=0.0, WMC_LowerQuartile=14.0},6.0,{NMD_NAD_MinBound=0.0, NMD_NAD_LowerQuartile=6.0},LazyClass);1 LongMethod(sanitizeAddress(java.lang.String[]),21.0,LongMethod,org.apache.tools.mail.MailMessage,{METHOD_LOC_MaxBound=40.5, METHOD_LOC_UpperQuartile=21.0})
+
+apache-ant-1.7.0 - src/tests/junit/org/apache/tools/ant/ExecutorTest.java - getProject - 1 LongMethod(org.apache.tools.ant.ExecutorTest,6.0,getProject(java.lang.String[], boolean[], boolean[]),LongMethod,{METHOD_LOC_MaxBound=15.0, METHOD_LOC_UpperQuartile=6.0})
+
+apache-ant-1.7.0 - src/tests/junit/org/apache/tools/ant/ExecutorTest.java - getProject - 1 LongMethod(org.apache.tools.ant.ExecutorTest,6.0,getProject(java.lang.String[], boolean[], boolean[]),LongMethod,{METHOD_LOC_MaxBound=15.0, METHOD_LOC_UpperQuartile=6.0})
+
+apache-ant-1.7.0 - src/tests/junit/org/apache/tools/ant/ExecutorTest.java - getProject - 1 LongMethod(org.apache.tools.ant.ExecutorTest,6.0,getProject(java.lang.String[], boolean[], boolean[]),LongMethod,{METHOD_LOC_MaxBound=15.0, METHOD_LOC_UpperQuartile=6.0})
+
+apache-ant-1.7.0 - src/tests/junit/org/apache/tools/ant/ProjectTest.java - testResolveFile - 1 LongMethod(testResolveFile(),LongMethod,org.apache.tools.ant.ProjectTest,{METHOD_LOC_MaxBound=70.0, METHOD_LOC_UpperQuartile=28.0},28.0)
+
+apache-ant-1.7.0 - src/tests/junit/org/apache/tools/ant/taskdefs/optional/ANTLRTest.java - test1 - 2 LazyClass({NMD_NAD_MinBound=0.0, NMD_NAD_LowerQuartile=2.0},org.apache.tools.ant.taskdefs.optional.HTMLFilter,2.0,3.0,{WMC_MinBound=0.0, WMC_LowerQuartile=3.0},org.apache.tools.ant.taskdefs.optional.CalcFileFilter,LazyClass);1 LongMethod(4.0,test10(),LongMethod,org.apache.tools.ant.taskdefs.optional.ANTLRTest,{METHOD_LOC_MaxBound=8.5, METHOD_LOC_UpperQuartile=4.0})
+
+apache-ant-1.7.0 - src/tests/junit/org/apache/tools/ant/taskdefs/optional/ANTLRTest.java - test10 - 2 LazyClass({NMD_NAD_MinBound=0.0, NMD_NAD_LowerQuartile=2.0},org.apache.tools.ant.taskdefs.optional.HTMLFilter,2.0,3.0,{WMC_MinBound=0.0, WMC_LowerQuartile=3.0},org.apache.tools.ant.taskdefs.optional.CalcFileFilter,LazyClass);1 LongMethod(4.0,test10(),LongMethod,org.apache.tools.ant.taskdefs.optional.ANTLRTest,{METHOD_LOC_MaxBound=8.5, METHOD_LOC_UpperQuartile=4.0})
+
+apache-ant-1.7.0 - src/tests/junit/org/apache/tools/ant/taskdefs/optional/junit/TestFormatter.java - endTest - 1 LongMethod(8.0,LongMethod,org.apache.tools.ant.taskdefs.optional.junit.TestFormatter,endTestSuite(unknown.ghost.packag.JUnitTest[]),{METHOD_LOC_MaxBound=20.0, METHOD_LOC_UpperQuartile=8.0})
+
+apache-ant-1.7.0 - src/tests/junit/org/apache/tools/ant/taskdefs/optional/junit/TestFormatter.java - endTestSuite - 1 LongMethod(8.0,LongMethod,org.apache.tools.ant.taskdefs.optional.junit.TestFormatter,endTestSuite(unknown.ghost.packag.JUnitTest[]),{METHOD_LOC_MaxBound=20.0, METHOD_LOC_UpperQuartile=8.0})
+
+apache-ant-1.7.0 - src/tests/junit/org/apache/tools/ant/types/DescriptionTest.java - test1 - 1 LongMethod(2.0,{METHOD_LOC_MaxBound=5.0, METHOD_LOC_UpperQuartile=2.0},org.apache.tools.ant.types.DescriptionTest,test1(),LongMethod)
+
+apache-ant-1.7.0 - src/tests/junit/org/apache/tools/ant/types/selectors/MockCache.java - save - 1 ClassDataShouldBePrivate(debug,ClassDataShouldBePrivate,saved,org.apache.tools.ant.types.selectors.MockCache)
+
+apache-ant-1.7.0 - src/tests/junit/org/apache/tools/ant/types/selectors/ModifiedSelectorTest.java - _testScenario2 - 1 LongMethod(_testScenario2(),{METHOD_LOC_MaxBound=92.5, METHOD_LOC_UpperQuartile=37.0},org.apache.tools.ant.types.selectors.ModifiedSelectorTest,LongMethod,37.0)
+
+apache-ant-1.7.0 - src/tests/junit/org/apache/tools/ant/types/XMLCatalogBuildFileTest.java - testDocumentNoCatalog - 1 LongMethod(testDocumentNoCatalog(),2.0,{METHOD_LOC_MaxBound=5.0, METHOD_LOC_UpperQuartile=2.0},org.apache.tools.ant.types.XMLCatalogBuildFileTest,LongMethod)
+
+apache-ant-1.7.0 - src/tests/junit/org/apache/tools/ant/util/regexp/JakartaRegexpMatcherTest.java - testUnixLineSeparator - 1 LongMethod(testUnixLineSeparator(),org.apache.tools.ant.util.regexp.JakartaRegexpMatcherTest,3.0,LongMethod,{METHOD_LOC_MaxBound=7.5, METHOD_LOC_UpperQuartile=3.0})
+
+apache-ant-1.7.0 - src/tests/junit/org/apache/tools/ant/util/regexp/JakartaRegexpRegexpTest.java - testUnixLineSeparator - 1 LongMethod(testUnixLineSeparator(),3.0,LongMethod,org.apache.tools.ant.util.regexp.JakartaRegexpRegexpTest,{METHOD_LOC_MaxBound=7.5, METHOD_LOC_UpperQuartile=3.0})
+
+apache-jmeter-2.10 - src/components/org/apache/jmeter/visualizers/BeanShellListener.java - sampleOccurred - 1 LongMethod(sampleOccurred(unknown.ghost.packag.SampleEvent[]),10.0,org.apache.jmeter.visualizers.BeanShellListener,LongMethod,{METHOD_LOC_MaxBound=25.0, METHOD_LOC_UpperQuartile=10.0})
+
+apache-jmeter-2.10 - src/components/org/apache/jmeter/visualizers/BSFListener.java - sampleOccurred - 1 LongMethod(13.0,sampleOccurred(unknown.ghost.packag.SampleEvent[]),{METHOD_LOC_MaxBound=32.5, METHOD_LOC_UpperQuartile=13.0},LongMethod,org.apache.jmeter.visualizers.BSFListener)
+
+apache-jmeter-2.10 - src/components/org/apache/jmeter/visualizers/JSR223Listener.java - sampleOccurred - 1 LongMethod(sampleOccurred(unknown.ghost.packag.SampleEvent[]),org.apache.jmeter.visualizers.JSR223Listener,8.0,LongMethod,{METHOD_LOC_MaxBound=20.0, METHOD_LOC_UpperQuartile=8.0})
+
+apache-jmeter-2.10 - src/components/org/apache/jmeter/visualizers/SimpleDataWriter.java - init - 1 LongMethod(3.0,LongMethod,org.apache.jmeter.visualizers.SimpleDataWriter,{METHOD_LOC_MaxBound=7.5, METHOD_LOC_UpperQuartile=3.0},init())
+
+apache-jmeter-2.10 - src/core/org/apache/jmeter/gui/action/AbstractAction.java - popupShouldSave - 1 LongMethod(4.0,org.apache.jmeter.gui.action.AbstractAction,{METHOD_LOC_MaxBound=10.0, METHOD_LOC_UpperQuartile=4.0},LongMethod,popupShouldSave(java.awt.event.ActionEvent[]))
+
+apache-jmeter-2.10 - src/core/org/apache/jmeter/gui/action/StopStoppables.java - doAction - 1 LongMethod(org.apache.jmeter.gui.action.StopStoppables,5.0,LongMethod,doAction(java.awt.event.ActionEvent[]),{METHOD_LOC_MaxBound=12.5, METHOD_LOC_UpperQuartile=5.0})
+
+apache-jmeter-2.10 - src/core/org/apache/jmeter/gui/util/TristateCheckBox.java - iterateState - 1 LongMethod({METHOD_LOC_MaxBound=27.5, METHOD_LOC_UpperQuartile=11.0},11.0,org.apache.jmeter.gui.util.TristateCheckBox,LongMethod,iterateState())
+
+apache-jmeter-2.10 - src/core/org/apache/jmeter/reporters/gui/ResultSaverGui.java - init - 1 LongMethod(org.apache.jmeter.reporters.gui.ResultSaverGui,{METHOD_LOC_MaxBound=47.5, METHOD_LOC_UpperQuartile=19.0},LongMethod,19.0,init())
+
+apache-jmeter-2.10 - src/core/org/apache/jmeter/reporters/ResultCollector.java - loadExistingFile - 1 LongMethod(41.0,LongMethod,loadExistingFile(),org.apache.jmeter.reporters.ResultCollector,{METHOD_LOC_MaxBound=102.5, METHOD_LOC_UpperQuartile=41.0})
+
+apache-jmeter-2.10 - src/core/org/apache/jmeter/testbeans/gui/TextAreaEditor.java - propertyChange - 1 LongMethod(org.apache.jmeter.testbeans.gui.TextAreaEditor,5.0,LongMethod,propertyChange(java.beans.PropertyChangeEvent[]),{METHOD_LOC_MaxBound=12.5, METHOD_LOC_UpperQuartile=5.0})
+
+apache-jmeter-2.10 - src/jorphan/org/apache/jorphan/gui/layout/VerticalLayout.java - layoutContainer - 1 LongMethod(org.apache.jorphan.gui.layout.VerticalLayout,layoutContainer(java.awt.Container[]),LongMethod,{METHOD_LOC_MaxBound=70.0, METHOD_LOC_UpperQuartile=28.0},28.0)
+
+apache-jmeter-2.10 - src/monitor/model/org/apache/jmeter/monitor/parser/MonitorHandler.java - startElement - 1 LongMethod({METHOD_LOC_MaxBound=257.5, METHOD_LOC_UpperQuartile=103.0},LongMethod,org.apache.jmeter.monitor.parser.MonitorHandler,startElement(java.lang.String[], java.lang.String[], java.lang.String[], org.xml.sax.Attributes[]),103.0)
+
+apache-jmeter-2.10 - src/protocol/http/org/apache/jmeter/protocol/http/control/Authorization.java - expectsModification - 1 LongMethod(org.apache.jmeter.protocol.http.control.Authorization,{METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,expectsModification(),LongMethod)
+
+apache-jmeter-2.10 - src/protocol/http/org/apache/jmeter/protocol/http/control/Cookie.java - toString - 1 LongMethod(org.apache.jmeter.protocol.http.control.Cookie,{METHOD_LOC_MaxBound=22.5, METHOD_LOC_UpperQuartile=9.0},toString(),LongMethod,9.0)
+
+apache-jmeter-2.10 - src/protocol/http/org/apache/jmeter/protocol/http/control/Header.java - expectsModification - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,org.apache.jmeter.protocol.http.control.Header,expectsModification(),LongMethod)
+
+apache-jmeter-2.10 - src/protocol/http/org/apache/jmeter/protocol/http/sampler/WebServiceSampler.java - sample - 1 LongMethod(LongMethod,{METHOD_LOC_MaxBound=280.0, METHOD_LOC_UpperQuartile=112.0},sample(),org.apache.jmeter.protocol.http.sampler.WebServiceSampler,112.0)
+
+apache-jmeter-2.10 - src/protocol/http/org/apache/jmeter/protocol/http/sampler/WebServiceSampler.java - sample - 1 LongMethod(LongMethod,{METHOD_LOC_MaxBound=280.0, METHOD_LOC_UpperQuartile=112.0},sample(),org.apache.jmeter.protocol.http.sampler.WebServiceSampler,112.0)
+
+apache-jmeter-2.10 - src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/config/DataSourceElement.java - initPool - 1 LongMethod(initPool(java.lang.String[]),67.0,LongMethod,org.apache.jmeter.protocol.jdbc.config.DataSourceElement,{METHOD_LOC_MaxBound=167.5, METHOD_LOC_UpperQuartile=67.0})
+
+apache-jmeter-2.10 - src/protocol/jms/org/apache/jmeter/protocol/jms/sampler/MessageAdmin.java - putReply - 1 LongMethod({METHOD_LOC_MaxBound=31.0, METHOD_LOC_UpperQuartile=13.0},putReply(java.lang.String[], unknown.ghost.packag.Message[]),13.0,LongMethod,org.apache.jmeter.protocol.jms.sampler.MessageAdmin)
+
+apache-jmeter-2.10 - src/protocol/mail/org/apache/jmeter/protocol/smtp/sampler/gui/SecuritySettingsPanel.java - init - 1 LongMethod(72.0,org.apache.jmeter.protocol.smtp.sampler.gui.SecuritySettingsPanel,LongMethod,{METHOD_LOC_MaxBound=180.0, METHOD_LOC_UpperQuartile=72.0},init())
+
+apache-jmeter-2.10 - src/protocol/mail/org/apache/jmeter/protocol/smtp/sampler/tools/CounterOutputStream.java - getCount - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,org.apache.jmeter.protocol.smtp.sampler.tools.CounterOutputStream,LongMethod,getCount())
+
+apache-jmeter-2.10 - src/protocol/mongodb/org/apache/jmeter/protocol/mongodb/config/MongoSourceElement.java - testStarted - 1 LongMethod({METHOD_LOC_MaxBound=42.5, METHOD_LOC_UpperQuartile=17.0},testStarted(),LongMethod,org.apache.jmeter.protocol.mongodb.config.MongoSourceElement,17.0)
+
+apache-jmeter-2.10 - src/protocol/mongodb/org/apache/jmeter/protocol/mongodb/config/MongoSourceElement.java - testStarted - 1 LongMethod({METHOD_LOC_MaxBound=42.5, METHOD_LOC_UpperQuartile=17.0},testStarted(),LongMethod,org.apache.jmeter.protocol.mongodb.config.MongoSourceElement,17.0)
+
+apache-jmeter-2.10 - src/reports/org/apache/jmeter/report/gui/action/AbstractAction.java - popupShouldSave - 1 LongMethod(org.apache.jmeter.report.gui.action.AbstractAction,4.0,{METHOD_LOC_MaxBound=10.0, METHOD_LOC_UpperQuartile=4.0},LongMethod,popupShouldSave(java.awt.event.ActionEvent[]))
+
+apache-jmeter-2.10 - test/src/org/apache/jmeter/protocol/http/parser/TestHtmlParsingUtils.java - testIsAnchorMatched - 1 LongMethod(org.apache.jmeter.protocol.http.parser.TestHtmlParsingUtils,{METHOD_LOC_MaxBound=52.5, METHOD_LOC_UpperQuartile=21.0},21.0,testIsAnchorMatched(),LongMethod)
+
+apache-jmeter-2.10 - test/src/org/apache/jmeter/protocol/http/sampler/NullURLConnection.java - getRequestProperty - 1 LongMethod(getRequestProperty(java.lang.String[]),{METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,org.apache.jmeter.protocol.http.sampler.NullURLConnection,LongMethod)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/application/Main.java - main - 1 LongMethod(70.0,org.argouml.application.Main,main(java.lang.String[][]),LongMethod,{METHOD_LOC_MaxBound=163.0, METHOD_LOC_UpperQuartile=70.0})
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/cognitive/checklist/ui/TabChecklist.java - setValueAt - 1 LongMethod(15.0,{METHOD_LOC_MaxBound=22.5, METHOD_LOC_UpperQuartile=15.0},setValueAt(java.lang.Object[], int[], int[]),LongMethod,org.argouml.cognitive.checklist.ui.TableModelChecklist)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/cognitive/StandardCM.java - isRelevant - 1 ComplexClass(ComplexClass,4.0,{NMD_NAD_MaxBound=2.0},org.argouml.cognitive.CompositeCM);1 LargeClass(LargeClass,2.0,{LCOM5_MaxBound=0.0},4.0,{NMD_NAD_MaxBound=2.0},org.argouml.cognitive.CompositeCM);2 LongMethod(org.argouml.cognitive.OrCM,4.0,isRelevant(unknown.ghost.packag.Critic[], unknown.ghost.packag.Designer[]),LongMethod,{METHOD_LOC_MaxBound=8.5, METHOD_LOC_UpperQuartile=4.0},org.argouml.cognitive.AndCM);3 RefusedParentBequest({IR_MinBound=0.0, IR_LowerQuartile=-1.0},-2.0,1.0,-1.0,org.argouml.cognitive.OrCM,RefusedParentBequest,org.argouml.cognitive.AndCM,org.argouml.cognitive.StandardCM,org.argouml.cognitive.CompositeCM,{USELESS=1.0})
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/cognitive/StandardCM.java - isRelevant - 1 ComplexClass(ComplexClass,4.0,{NMD_NAD_MaxBound=2.0},org.argouml.cognitive.CompositeCM);1 LargeClass(LargeClass,2.0,{LCOM5_MaxBound=0.0},4.0,{NMD_NAD_MaxBound=2.0},org.argouml.cognitive.CompositeCM);2 LongMethod(org.argouml.cognitive.OrCM,4.0,isRelevant(unknown.ghost.packag.Critic[], unknown.ghost.packag.Designer[]),LongMethod,{METHOD_LOC_MaxBound=8.5, METHOD_LOC_UpperQuartile=4.0},org.argouml.cognitive.AndCM);3 RefusedParentBequest({IR_MinBound=0.0, IR_LowerQuartile=-1.0},-2.0,1.0,-1.0,org.argouml.cognitive.OrCM,RefusedParentBequest,org.argouml.cognitive.AndCM,org.argouml.cognitive.StandardCM,org.argouml.cognitive.CompositeCM,{USELESS=1.0})
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/cognitive/StandardCM.java - isRelevant - 1 ComplexClass(ComplexClass,4.0,{NMD_NAD_MaxBound=2.0},org.argouml.cognitive.CompositeCM);1 LargeClass(LargeClass,2.0,{LCOM5_MaxBound=0.0},4.0,{NMD_NAD_MaxBound=2.0},org.argouml.cognitive.CompositeCM);2 LongMethod(org.argouml.cognitive.OrCM,4.0,isRelevant(unknown.ghost.packag.Critic[], unknown.ghost.packag.Designer[]),LongMethod,{METHOD_LOC_MaxBound=8.5, METHOD_LOC_UpperQuartile=4.0},org.argouml.cognitive.AndCM);3 RefusedParentBequest({IR_MinBound=0.0, IR_LowerQuartile=-1.0},-2.0,1.0,-1.0,org.argouml.cognitive.OrCM,RefusedParentBequest,org.argouml.cognitive.AndCM,org.argouml.cognitive.StandardCM,org.argouml.cognitive.CompositeCM,{USELESS=1.0})
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/cognitive/StandardCM.java - isRelevant - 1 ComplexClass(ComplexClass,4.0,{NMD_NAD_MaxBound=2.0},org.argouml.cognitive.CompositeCM);1 LargeClass(LargeClass,2.0,{LCOM5_MaxBound=0.0},4.0,{NMD_NAD_MaxBound=2.0},org.argouml.cognitive.CompositeCM);2 LongMethod(org.argouml.cognitive.OrCM,4.0,isRelevant(unknown.ghost.packag.Critic[], unknown.ghost.packag.Designer[]),LongMethod,{METHOD_LOC_MaxBound=8.5, METHOD_LOC_UpperQuartile=4.0},org.argouml.cognitive.AndCM);3 RefusedParentBequest({IR_MinBound=0.0, IR_LowerQuartile=-1.0},-2.0,1.0,-1.0,org.argouml.cognitive.OrCM,RefusedParentBequest,org.argouml.cognitive.AndCM,org.argouml.cognitive.StandardCM,org.argouml.cognitive.CompositeCM,{USELESS=1.0})
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/cognitive/StandardCM.java - isRelevant - 1 ComplexClass(ComplexClass,4.0,{NMD_NAD_MaxBound=2.0},org.argouml.cognitive.CompositeCM);1 LargeClass(LargeClass,2.0,{LCOM5_MaxBound=0.0},4.0,{NMD_NAD_MaxBound=2.0},org.argouml.cognitive.CompositeCM);2 LongMethod(org.argouml.cognitive.OrCM,4.0,isRelevant(unknown.ghost.packag.Critic[], unknown.ghost.packag.Designer[]),LongMethod,{METHOD_LOC_MaxBound=8.5, METHOD_LOC_UpperQuartile=4.0},org.argouml.cognitive.AndCM);3 RefusedParentBequest({IR_MinBound=0.0, IR_LowerQuartile=-1.0},-2.0,1.0,-1.0,org.argouml.cognitive.OrCM,RefusedParentBequest,org.argouml.cognitive.AndCM,org.argouml.cognitive.StandardCM,org.argouml.cognitive.CompositeCM,{USELESS=1.0})
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/cognitive/StandardCM.java - isRelevant - 1 ComplexClass(ComplexClass,4.0,{NMD_NAD_MaxBound=2.0},org.argouml.cognitive.CompositeCM);1 LargeClass(LargeClass,2.0,{LCOM5_MaxBound=0.0},4.0,{NMD_NAD_MaxBound=2.0},org.argouml.cognitive.CompositeCM);2 LongMethod(org.argouml.cognitive.OrCM,4.0,isRelevant(unknown.ghost.packag.Critic[], unknown.ghost.packag.Designer[]),LongMethod,{METHOD_LOC_MaxBound=8.5, METHOD_LOC_UpperQuartile=4.0},org.argouml.cognitive.AndCM);3 RefusedParentBequest({IR_MinBound=0.0, IR_LowerQuartile=-1.0},-2.0,1.0,-1.0,org.argouml.cognitive.OrCM,RefusedParentBequest,org.argouml.cognitive.AndCM,org.argouml.cognitive.StandardCM,org.argouml.cognitive.CompositeCM,{USELESS=1.0})
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/cognitive/ui/GoListToDecisionsToItems.java - getChild - 1 LongMethod({METHOD_LOC_MaxBound=35.0, METHOD_LOC_UpperQuartile=14.0},org.argouml.cognitive.ui.GoListToDecisionsToItems,14.0,LongMethod,getChildCountCond(java.lang.Object[], boolean[]))
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/cognitive/ui/GoListToDecisionsToItems.java - getChildCountCond - 1 LongMethod({METHOD_LOC_MaxBound=35.0, METHOD_LOC_UpperQuartile=14.0},org.argouml.cognitive.ui.GoListToDecisionsToItems,14.0,LongMethod,getChildCountCond(java.lang.Object[], boolean[]))
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/cognitive/ui/GoListToDecisionsToItems.java - getChildCount - 1 LongMethod({METHOD_LOC_MaxBound=35.0, METHOD_LOC_UpperQuartile=14.0},org.argouml.cognitive.ui.GoListToDecisionsToItems,14.0,LongMethod,getChildCountCond(java.lang.Object[], boolean[]))
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/cognitive/ui/GoListToGoalsToItems.java - getChild - 1 LongMethod(12.0,getChild(java.lang.Object[], int[]),{METHOD_LOC_MaxBound=30.0, METHOD_LOC_UpperQuartile=12.0},LongMethod,org.argouml.cognitive.ui.GoListToGoalsToItems)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/cognitive/ui/GoListToOffenderToItem.java - getChild - 1 LongMethod({METHOD_LOC_MaxBound=57.5, METHOD_LOC_UpperQuartile=23.0},getChildrenList(java.lang.Object[]),23.0,org.argouml.cognitive.ui.GoListToOffenderToItem,LongMethod)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/cognitive/ui/GoListToPosterToItem.java - getChild - 1 LongMethod(13.0,getChildrenList(java.lang.Object[]),{METHOD_LOC_MaxBound=32.5, METHOD_LOC_UpperQuartile=13.0},LongMethod,org.argouml.cognitive.ui.GoListToPosterToItem)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/cognitive/ui/GoListToPosterToItem.java - getChildrenList - 1 LongMethod(13.0,getChildrenList(java.lang.Object[]),{METHOD_LOC_MaxBound=32.5, METHOD_LOC_UpperQuartile=13.0},LongMethod,org.argouml.cognitive.ui.GoListToPosterToItem)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/cognitive/ui/GoListToPriorityToItem.java - getIndexOfChild - 1 LongMethod(13.0,org.argouml.cognitive.ui.GoListToPriorityToItem,getIndexOfChild(java.lang.Object[], java.lang.Object[]),{METHOD_LOC_MaxBound=32.5, METHOD_LOC_UpperQuartile=13.0},LongMethod)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/cognitive/ui/GoListToTypeToItem.java - getChild - 1 LongMethod(12.0,getChild(java.lang.Object[], int[]),{METHOD_LOC_MaxBound=30.0, METHOD_LOC_UpperQuartile=12.0},org.argouml.cognitive.ui.GoListToTypeToItem,LongMethod)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/ocl/ArgoFacade.java - navigateQualified - 1 LongMethod(navigateQualified(java.lang.String[], unknown.ghost.packag.Type[][]),org.argouml.ocl.ArgoAny,LongMethod,{METHOD_LOC_MaxBound=106.5, METHOD_LOC_UpperQuartile=48.0},48.0)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/persistence/PersistenceManager.java - setOpenFileChooserFilter - 1 LongMethod(11.0,org.argouml.persistence.PersistenceManager,{METHOD_LOC_MaxBound=20.0, METHOD_LOC_UpperQuartile=11.0},LongMethod,setOpenFileChooserFilter(javax.swing.JFileChooser[]))
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/persistence/ProfileConfigurationFilePersister.java - save - 1 LongMethod(saveProjectMember(unknown.ghost.packag.ProjectMember[], java.io.PrintWriter[]),{METHOD_LOC_MaxBound=30.0, METHOD_LOC_UpperQuartile=21.0},21.0,LongMethod,org.argouml.persistence.ProfileConfigurationFilePersister)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/persistence/ProfileConfigurationFilePersister.java - saveProjectMember - 1 LongMethod(saveProjectMember(unknown.ghost.packag.ProjectMember[], java.io.PrintWriter[]),{METHOD_LOC_MaxBound=30.0, METHOD_LOC_UpperQuartile=21.0},21.0,LongMethod,org.argouml.persistence.ProfileConfigurationFilePersister)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/persistence/XmiInputStream.java - read - 1 LongMethod(read(),org.argouml.persistence.XmiInputStream,LongMethod,{METHOD_LOC_MaxBound=93.5, METHOD_LOC_UpperQuartile=38.0},38.0)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/persistence/XmiInputStream.java - read - 1 LongMethod(read(),org.argouml.persistence.XmiInputStream,LongMethod,{METHOD_LOC_MaxBound=93.5, METHOD_LOC_UpperQuartile=38.0},38.0)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/persistence/XmlInputStream.java - skipToTag - 1 LongMethod({METHOD_LOC_MaxBound=115.0, METHOD_LOC_UpperQuartile=46.0},org.argouml.persistence.XmlInputStream,skipToTag(),LongMethod,46.0)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/swingext/JLinkButton.java - paintText - 1 LongMethod({METHOD_LOC_MaxBound=50.0, METHOD_LOC_UpperQuartile=29.0},paintText(java.awt.Graphics[], javax.swing.JComponent[], java.awt.Rectangle[], java.lang.String[]),LongMethod,29.0,org.argouml.swingext.BasicLinkButtonUI)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/ui/cmd/SettingsTabShortcuts.java - getTabPanel - 1 LazyClass({NMD_NAD_MinBound=0.0, NMD_NAD_LowerQuartile=2.0},org.argouml.ui.cmd.KeyStrokeCellRenderer,2.0,3.0,{WMC_MinBound=0.0, WMC_LowerQuartile=3.0},LazyClass);1 LongMethod({METHOD_LOC_MaxBound=188.0, METHOD_LOC_UpperQuartile=77.0},org.argouml.ui.cmd.SettingsTabShortcuts,getTabPanel(),LongMethod,77.0)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/ui/FindDialog.java - initNameLocTab - 1 LongMethod(org.argouml.ui.FindDialog,initNameLocTab(),LongMethod,87.0,{METHOD_LOC_MaxBound=210.0, METHOD_LOC_UpperQuartile=87.0})
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/ui/FindDialog.java - initNameLocTab - 1 LongMethod(org.argouml.ui.FindDialog,initNameLocTab(),LongMethod,87.0,{METHOD_LOC_MaxBound=210.0, METHOD_LOC_UpperQuartile=87.0})
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/ui/SettingsTabAppearance.java - buildPanel - 1 LongMethod({METHOD_LOC_MaxBound=92.5, METHOD_LOC_UpperQuartile=43.0},org.argouml.ui.SettingsTabAppearance,buildPanel(),43.0,LongMethod)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/ui/SettingsTabEnvironment.java - buildPanel - 1 LongMethod({METHOD_LOC_MaxBound=143.5, METHOD_LOC_UpperQuartile=58.0},buildPanel(),LongMethod,org.argouml.ui.SettingsTabEnvironment,58.0)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/ui/SplashScreen.java - paint - 1 LongMethod(org.argouml.ui.SplashScreen,paint(java.awt.Graphics[]),5.0,LongMethod,{METHOD_LOC_MaxBound=12.5, METHOD_LOC_UpperQuartile=5.0})
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/ui/StylePanel.java - setTarget - 1 LongMethod(org.argouml.ui.StylePanel,10.0,LongMethod,{METHOD_LOC_MaxBound=25.0, METHOD_LOC_UpperQuartile=10.0},setTarget(java.lang.Object[]))
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/ui/TabResults.java - myDoubleClick - 1 LongMethod(myDoubleClick(java.lang.Object[]),{METHOD_LOC_MaxBound=50.0, METHOD_LOC_UpperQuartile=20.0},20.0,LongMethod,org.argouml.ui.TabResults)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/uml/diagram/collaboration/ui/FigAssociationRole.java - calcBounds - 1 LongMethod(org.argouml.uml.diagram.collaboration.ui.FigMessageGroup,{METHOD_LOC_MaxBound=43.0, METHOD_LOC_UpperQuartile=19.0},calcBounds(),LongMethod,19.0)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/uml/diagram/static_structure/ui/FigDataType.java - constructFigs - 1 LongMethod(org.argouml.uml.diagram.static_structure.ui.FigDataType,{METHOD_LOC_MaxBound=45.0, METHOD_LOC_UpperQuartile=18.0},LongMethod,constructFigs(java.awt.Rectangle[]),18.0)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/uml/diagram/static_structure/ui/FigPackage.java - setStandardBounds - 1 LongMethod(org.argouml.uml.diagram.static_structure.ui.FigPackage,setStandardBounds(int[], int[], int[], int[]),30.0,LongMethod,{METHOD_LOC_MaxBound=67.5, METHOD_LOC_UpperQuartile=30.0})
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/uml/diagram/ui/ActionSaveDiagramToClipboard.java - getImage - 1 LongMethod(getImage(),{METHOD_LOC_MaxBound=38.0, METHOD_LOC_UpperQuartile=17.0},LongMethod,org.argouml.uml.diagram.ui.ActionSaveDiagramToClipboard,17.0)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/uml/diagram/ui/FigAssociation.java - propertyChange - 2 LazyClass({NMD_NAD_MinBound=0.0, NMD_NAD_LowerQuartile=3.0},2.0,3.0,org.argouml.uml.diagram.ui.FigRole,4.0,org.argouml.uml.diagram.ui.FigMultiplicity,{WMC_MinBound=0.0, WMC_LowerQuartile=4.0},LazyClass);2 LongMethod(org.argouml.uml.diagram.ui.FigAssociationEndAnnotation,14.0,13.0,{METHOD_LOC_MaxBound=30.5, METHOD_LOC_UpperQuartile=14.0},org.argouml.uml.diagram.ui.FigAssociation,LongMethod,propertyChange(java.beans.PropertyChangeEvent[]),textEdited(unknown.ghost.packag.FigText[]))
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/uml/diagram/ui/FigAssociationClass.java - removeFromDiagramImpl - 1 LongMethod({METHOD_LOC_MaxBound=42.5, METHOD_LOC_UpperQuartile=17.0},org.argouml.uml.diagram.ui.FigAssociationClass,LongMethod,removeFromDiagramImpl(),17.0)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/uml/diagram/ui/ModeAddToDiagram.java - mouseReleased - 1 LongMethod(org.argouml.uml.diagram.ui.ModeAddToDiagram,mouseReleased(java.awt.event.MouseEvent[]),{METHOD_LOC_MaxBound=130.0, METHOD_LOC_UpperQuartile=55.0},55.0,LongMethod)
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/uml/diagram/ui/PropPanelDiagram.java - buildModelList - 2 LongMethod({METHOD_LOC_MaxBound=19.0, METHOD_LOC_UpperQuartile=10.0},10.0,org.argouml.uml.diagram.ui.UMLDiagramHomeModelComboBoxModel,org.argouml.uml.diagram.ui.ActionSetDiagramHomeModel,actionPerformed(java.awt.event.ActionEvent[]),LongMethod,9.0,buildModelList())
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/uml/diagram/ui/PropPanelDiagram.java - actionPerformed - 2 LongMethod({METHOD_LOC_MaxBound=19.0, METHOD_LOC_UpperQuartile=10.0},10.0,org.argouml.uml.diagram.ui.UMLDiagramHomeModelComboBoxModel,org.argouml.uml.diagram.ui.ActionSetDiagramHomeModel,actionPerformed(java.awt.event.ActionEvent[]),LongMethod,9.0,buildModelList())
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/uml/diagram/ui/PropPanelDiagram.java - actionPerformed - 2 LongMethod({METHOD_LOC_MaxBound=19.0, METHOD_LOC_UpperQuartile=10.0},10.0,org.argouml.uml.diagram.ui.UMLDiagramHomeModelComboBoxModel,org.argouml.uml.diagram.ui.ActionSetDiagramHomeModel,actionPerformed(java.awt.event.ActionEvent[]),LongMethod,9.0,buildModelList())
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/uml/diagram/ui/PropPanelString.java - setTarget - 1 LongMethod({METHOD_LOC_MaxBound=17.5, METHOD_LOC_UpperQuartile=7.0},7.0,LongMethod,org.argouml.uml.diagram.ui.PropPanelString,setTarget(java.lang.Object[]))
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/uml/ui/LabelledLayout.java - layoutSection - 1 LazyClass(org.argouml.uml.ui.Seperator,{NMD_NAD_MinBound=0.0, NMD_NAD_LowerQuartile=2.0},1.0,2.0,{WMC_MinBound=0.0, WMC_LowerQuartile=1.0},LazyClass);1 LongMethod({METHOD_LOC_MaxBound=152.5, METHOD_LOC_UpperQuartile=61.0},org.argouml.uml.ui.LabelledLayout,61.0,LongMethod,layoutSection(java.awt.Container[], int[], int[], java.util.ArrayList[][], int[]))
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/uml/ui/SaveGraphicsManager.java - saveGraphics - 2 LazyClass({NMD_NAD_MinBound=0.0, NMD_NAD_LowerQuartile=2.0},2.0,4.0,org.argouml.uml.ui.SaveGIFAction2,5.0,org.argouml.uml.ui.SaveScaledEPSAction,LazyClass,{WMC_MinBound=0.0, WMC_LowerQuartile=5.0});1 LongMethod(16.0,org.argouml.uml.ui.SaveSVGAction2,saveGraphics(java.io.OutputStream[], unknown.ghost.packag.Editor[], java.awt.Rectangle[]),LongMethod,{METHOD_LOC_MaxBound=26.5, METHOD_LOC_UpperQuartile=16.0})
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/uml/ui/SaveGraphicsManager.java - saveGraphics - 2 LazyClass({NMD_NAD_MinBound=0.0, NMD_NAD_LowerQuartile=2.0},2.0,4.0,org.argouml.uml.ui.SaveGIFAction2,5.0,org.argouml.uml.ui.SaveScaledEPSAction,LazyClass,{WMC_MinBound=0.0, WMC_LowerQuartile=5.0});1 LongMethod(16.0,org.argouml.uml.ui.SaveSVGAction2,saveGraphics(java.io.OutputStream[], unknown.ghost.packag.Editor[], java.awt.Rectangle[]),LongMethod,{METHOD_LOC_MaxBound=26.5, METHOD_LOC_UpperQuartile=16.0})
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/uml/ui/SaveGraphicsManager.java - saveGraphics - 2 LazyClass({NMD_NAD_MinBound=0.0, NMD_NAD_LowerQuartile=2.0},2.0,4.0,org.argouml.uml.ui.SaveGIFAction2,5.0,org.argouml.uml.ui.SaveScaledEPSAction,LazyClass,{WMC_MinBound=0.0, WMC_LowerQuartile=5.0});1 LongMethod(16.0,org.argouml.uml.ui.SaveSVGAction2,saveGraphics(java.io.OutputStream[], unknown.ghost.packag.Editor[], java.awt.Rectangle[]),LongMethod,{METHOD_LOC_MaxBound=26.5, METHOD_LOC_UpperQuartile=16.0})
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/uml/ui/SaveGraphicsManager.java - saveGraphics - 2 LazyClass({NMD_NAD_MinBound=0.0, NMD_NAD_LowerQuartile=2.0},2.0,4.0,org.argouml.uml.ui.SaveGIFAction2,5.0,org.argouml.uml.ui.SaveScaledEPSAction,LazyClass,{WMC_MinBound=0.0, WMC_LowerQuartile=5.0});1 LongMethod(16.0,org.argouml.uml.ui.SaveSVGAction2,saveGraphics(java.io.OutputStream[], unknown.ghost.packag.Editor[], java.awt.Rectangle[]),LongMethod,{METHOD_LOC_MaxBound=26.5, METHOD_LOC_UpperQuartile=16.0})
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/uml/ui/TabConstraints.java - setTarget - 1 LongMethod({METHOD_LOC_MaxBound=17.5, METHOD_LOC_UpperQuartile=7.0},7.0,LongMethod,org.argouml.uml.ui.TabConstraints,setTarget(java.lang.Object[]))
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/uml/ui/TabTaggedValues.java - setTarget - 1 LongMethod(org.argouml.uml.ui.TabTaggedValues,10.0,{METHOD_LOC_MaxBound=20.5, METHOD_LOC_UpperQuartile=10.0},LongMethod,setTarget(java.lang.Object[]))
+
+argoUML-034 - argouml/src/argouml-app/src/org/argouml/util/MyTokenizer.java - nextToken - 1 LongMethod(nextToken(),{METHOD_LOC_MaxBound=134.5, METHOD_LOC_UpperQuartile=58.0},LongMethod,org.argouml.util.MyTokenizer,58.0)
+
+argoUML-034 - argouml/src/argouml-core-model-euml/src/org/argouml/model/euml/ActivityGraphsHelperEUMLImpl.java - findClassifierByName - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},org.argouml.model.euml.ActivityGraphsHelperEUMLImpl,1.0,findClassifierByName(java.lang.Object[], java.lang.String[]),LongMethod)
+
+argoUML-034 - argouml/src/argouml-core-model-euml/src/org/argouml/model/euml/CollaborationsHelperEUMLImpl.java - setMessageSort - 1 LongMethod(setMessageSort(java.lang.Object[], java.lang.Object[]),3.0,org.argouml.model.euml.CollaborationsHelperEUMLImpl,LongMethod,{METHOD_LOC_MaxBound=7.5, METHOD_LOC_UpperQuartile=3.0})
+
+argoUML-034 - argouml/src/argouml-core-model-euml/src/org/argouml/model/euml/CommonBehaviorHelperEUMLImpl.java - setClassifiers - 1 LongMethod(3.0,LongMethod,{METHOD_LOC_MaxBound=7.5, METHOD_LOC_UpperQuartile=3.0},setClassifiers(java.lang.Object[], java.util.Collection[][]),org.argouml.model.euml.CommonBehaviorHelperEUMLImpl)
+
+argoUML-034 - argouml/src/argouml-core-model-mdr/src/org/argouml/model/mdr/ModelEventPumpMDRImpl.java - change - 1 LongMethod(org.argouml.model.mdr.ModelEventPumpMDRImpl,change(unknown.ghost.packag.MDRChangeEvent[]),LongMethod,37.0,{METHOD_LOC_MaxBound=70.0, METHOD_LOC_UpperQuartile=37.0})
+
+argoUML-034 - argouml/src/argouml-core-model-mdr/src/org/argouml/model/mdr/UmlHelperMDRImpl.java - move - 1 LongMethod({METHOD_LOC_MaxBound=225.0, METHOD_LOC_UpperQuartile=90.0},90.0,LongMethod,org.argouml.model.mdr.UmlHelperMDRImpl,move(java.lang.Object[], java.lang.Object[], unknown.ghost.packag.Direction[]))
+
+argoUML-034 - argouml/src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/LabelledLayout.java - layoutSection - 1 LazyClass({NMD_NAD_MinBound=0.0, NMD_NAD_LowerQuartile=2.0},1.0,2.0,org.argouml.core.propertypanels.ui.Seperator,{WMC_MinBound=0.0, WMC_LowerQuartile=1.0},LazyClass);1 LongMethod(org.argouml.core.propertypanels.ui.LabelledLayout,{METHOD_LOC_MaxBound=120.0, METHOD_LOC_UpperQuartile=48.0},LongMethod,48.0,layoutSection(java.awt.Container[], int[], int[], java.util.ArrayList[][], int[]))
+
+argoUML-034 - argouml-cpp/src/org/argouml/language/cpp/reveng/MemberModeler.java - setType - 1 LongMethod(org.argouml.language.cpp.reveng.MemberModeler,2.0,{METHOD_LOC_MaxBound=5.0, METHOD_LOC_UpperQuartile=2.0},setType(java.lang.Object[]),LongMethod)
+
+argoUML-034 - argouml-csharp/src/org/argouml/language/csharp/importer/csparser/main/Parser.java - parse - 1 AntiSingleton(EOF,AntiSingleton,org.argouml.language.csharp.importer.csparser.main.Parser);1 ClassDataShouldBePrivate(ClassDataShouldBePrivate,CurrentState,EOF,org.argouml.language.csharp.importer.csparser.main.Parser)
+
+argoUML-034 - argouml-csharp/src/org/argouml/language/csharp/importer/csparser/nodes/expressions/UnaryExpression.java - UnaryExpression - 1 ClassDataShouldBePrivate(Op,ClassDataShouldBePrivate,Child,org.argouml.language.csharp.importer.csparser.nodes.expressions.UnaryExpression)
+
+argoUML-034 - argouml-documentation/src/docbook-setup/docbook-xsl/extensions/saxon643/com/nwalsh/saxon/ColumnScanEmitter.java - startElement - 1 AntiSingleton(com.nwalsh.saxon.ColumnScanEmitter,foURI,AntiSingleton);1 LongMethod(com.nwalsh.saxon.ColumnScanEmitter,16.0,{METHOD_LOC_MaxBound=40.0, METHOD_LOC_UpperQuartile=16.0},LongMethod,startElement(int[], org.xml.sax.Attributes[], int[][], int[]))
+
+columba-1.4-src - calendar/src/main/java/org/columba/calendar/CalendarComponent.java - postStartup - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,LongMethod,org.columba.calendar.CalendarComponent,postStartup())
+
+columba-1.4-src - calendar/src/main/java/org/columba/calendar/search/ComplexResultPanel.java - resultArrived - 1 LongMethod({METHOD_LOC_MaxBound=17.5, METHOD_LOC_UpperQuartile=7.0},resultArrived(unknown.ghost.packag.IResultEvent[]),7.0,LongMethod,org.columba.calendar.search.ComplexResultPanel)
+
+columba-1.4-src - contact/src/main/java/org/columba/addressbook/folder/LocalRootFolder.java - getIcon - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},org.columba.addressbook.folder.LocalRootFolder,1.0,LongMethod,getIcon())
+
+columba-1.4-src - contact/src/main/java/org/columba/addressbook/folder/RemoteRootFolder.java - getIcon - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,org.columba.addressbook.folder.RemoteRootFolder,LongMethod,getIcon())
+
+columba-1.4-src - contact/src/main/java/org/columba/addressbook/folder/Root.java - getDefaultChild - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,getDefaultChild(),org.columba.addressbook.folder.Root,LongMethod)
+
+columba-1.4-src - contact/src/main/java/org/columba/addressbook/gui/dialog/importfilter/AddressbookImporter.java - wizardFinished - 1 LongMethod(12.0,{METHOD_LOC_MaxBound=30.0, METHOD_LOC_UpperQuartile=12.0},LongMethod,org.columba.addressbook.gui.dialog.importfilter.AddressbookImporter,wizardFinished(unknown.ghost.packag.WizardModelEvent[]))
+
+columba-1.4-src - contact/src/main/java/org/columba/addressbook/gui/focus/AbstractFocusOwner.java - isCopyActionEnabled - 1 LongMethod(org.columba.addressbook.gui.focus.AbstractFocusOwner,{METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,LongMethod,isCopyActionEnabled())
+
+columba-1.4-src - contact/src/main/java/org/columba/addressbook/gui/search/ComplexResultPanel.java - resultArrived - 1 LongMethod(org.columba.addressbook.gui.search.ComplexResultPanel,{METHOD_LOC_MaxBound=17.5, METHOD_LOC_UpperQuartile=7.0},resultArrived(unknown.ghost.packag.IResultEvent[]),7.0,LongMethod)
+
+columba-1.4-src - contact/src/main/java/org/columba/addressbook/gui/tree/TreeController.java - setSelectedFolder - 1 LongMethod(3.0,setSelectedFolder(unknown.ghost.packag.AbstractFolder[]),org.columba.addressbook.gui.tree.TreeController,LongMethod,{METHOD_LOC_MaxBound=7.5, METHOD_LOC_UpperQuartile=3.0})
+
+columba-1.4-src - core/src/main/java/org/columba/core/base/SwingWorker.java - get - 1 LongMethod(org.columba.core.base.SwingWorker,8.0,LongMethod,get(),{METHOD_LOC_MaxBound=20.0, METHOD_LOC_UpperQuartile=8.0})
+
+columba-1.4-src - core/src/main/java/org/columba/core/base/SwingWorker.java - get - 1 LongMethod(org.columba.core.base.SwingWorker,8.0,LongMethod,get(),{METHOD_LOC_MaxBound=20.0, METHOD_LOC_UpperQuartile=8.0})
+
+columba-1.4-src - core/src/main/java/org/columba/core/command/CommandProcessor.java - startOperation - 1 LongMethod(16.0,org.columba.core.command.CommandProcessor,LongMethod,{METHOD_LOC_MaxBound=38.5, METHOD_LOC_UpperQuartile=16.0},startOperation())
+
+columba-1.4-src - core/src/main/java/org/columba/core/command/NullWorkerStatusController.java - getInstance - 1 LongMethod(org.columba.core.command.NullWorkerStatusController,3.0,getInstance(),LongMethod,{METHOD_LOC_MaxBound=7.5, METHOD_LOC_UpperQuartile=3.0})
+
+columba-1.4-src - core/src/main/java/org/columba/core/desktop/DefaultDesktop.java - getMimeType - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,LongMethod,getMimeType(java.io.File[]),org.columba.core.desktop.DefaultDesktop)
+
+columba-1.4-src - core/src/main/java/org/columba/core/desktop/DefaultDesktop.java - getMimeType - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,LongMethod,getMimeType(java.io.File[]),org.columba.core.desktop.DefaultDesktop)
+
+columba-1.4-src - core/src/main/java/org/columba/core/filemonitor/FileMonitorService.java - monitorFile - 1 LongMethod({METHOD_LOC_MaxBound=17.5, METHOD_LOC_UpperQuartile=7.0},org.columba.core.filemonitor.FileMonitorService,7.0,LongMethod,monitorFile(java.io.File[], unknown.ghost.packag.FileObserver[]))
+
+columba-1.4-src - core/src/main/java/org/columba/core/gui/base/LinkLabel.java - mouseEntered - 1 LongMethod(org.columba.core.gui.base.LinkLabel,4.0,{METHOD_LOC_MaxBound=10.0, METHOD_LOC_UpperQuartile=4.0},mouseEntered(java.awt.event.MouseEvent[]),LongMethod)
+
+columba-1.4-src - core/src/main/java/org/columba/core/gui/docking/DockingPanel.java - dock - 1 AntiSingleton(org.columba.core.gui.docking.DockingPanel,ACTIVE_MID_COLOR,INACTIVE_MID_COLOR,ACTIVE_START_COLOR,ACTIVE_LABEL_COLOR,INACTIVE_START_COLOR,INACTIVE_LABEL_COLOR,ACTIVE_FILL_COLOR,AntiSingleton,INACTIVE_FILL_COLOR);1 ClassDataShouldBePrivate(org.columba.core.gui.docking.DockingPanel,ACTIVE_MID_COLOR,INACTIVE_MID_COLOR,ACTIVE_START_COLOR,ClassDataShouldBePrivate,ACTIVE_LABEL_COLOR,INACTIVE_START_COLOR,ACTIVE_FILL_COLOR,INACTIVE_LABEL_COLOR,INACTIVE_FILL_COLOR)
+
+columba-1.4-src - core/src/main/java/org/columba/core/gui/docking/DockingPanel.java - dock - 1 AntiSingleton(org.columba.core.gui.docking.DockingPanel,ACTIVE_MID_COLOR,INACTIVE_MID_COLOR,ACTIVE_START_COLOR,ACTIVE_LABEL_COLOR,INACTIVE_START_COLOR,INACTIVE_LABEL_COLOR,ACTIVE_FILL_COLOR,AntiSingleton,INACTIVE_FILL_COLOR);1 ClassDataShouldBePrivate(org.columba.core.gui.docking.DockingPanel,ACTIVE_MID_COLOR,INACTIVE_MID_COLOR,ACTIVE_START_COLOR,ClassDataShouldBePrivate,ACTIVE_LABEL_COLOR,INACTIVE_START_COLOR,ACTIVE_FILL_COLOR,INACTIVE_LABEL_COLOR,INACTIVE_FILL_COLOR)
+
+columba-1.4-src - core/src/main/java/org/columba/core/gui/docking/DockingPanel.java - dock - 1 AntiSingleton(org.columba.core.gui.docking.DockingPanel,ACTIVE_MID_COLOR,INACTIVE_MID_COLOR,ACTIVE_START_COLOR,ACTIVE_LABEL_COLOR,INACTIVE_START_COLOR,INACTIVE_LABEL_COLOR,ACTIVE_FILL_COLOR,AntiSingleton,INACTIVE_FILL_COLOR);1 ClassDataShouldBePrivate(org.columba.core.gui.docking.DockingPanel,ACTIVE_MID_COLOR,INACTIVE_MID_COLOR,ACTIVE_START_COLOR,ClassDataShouldBePrivate,ACTIVE_LABEL_COLOR,INACTIVE_START_COLOR,ACTIVE_FILL_COLOR,INACTIVE_LABEL_COLOR,INACTIVE_FILL_COLOR)
+
+columba-1.4-src - core/src/main/java/org/columba/core/io/StreamCache.java - add - 1 LongMethod(org.columba.core.io.StreamCache,add(java.lang.Object[], java.io.File[]),12.0,LongMethod,{METHOD_LOC_MaxBound=27.0, METHOD_LOC_UpperQuartile=12.0})
+
+columba-1.4-src - core/src/main/java/org/columba/core/main/Main.java - main - 1 AntiSingleton(mainClassLoader,AntiSingleton,org.columba.core.main.Main);1 ClassDataShouldBePrivate(ClassDataShouldBePrivate,mainClassLoader,org.columba.core.main.Main)
+
+columba-1.4-src - core/src/main/java/org/columba/core/print/cHTMLPart.java - print - 1 LongMethod(org.columba.core.print.cHTMLPart,calcBreakHeightFromView(javax.swing.text.View[], java.awt.Shape[], double[]),{METHOD_LOC_MaxBound=43.0, METHOD_LOC_UpperQuartile=19.0},LongMethod,19.0)
+
+columba-1.4-src - core/src/main/java/org/columba/core/print/cHTMLPart.java - calcBreakHeightFromView - 1 LongMethod(org.columba.core.print.cHTMLPart,calcBreakHeightFromView(javax.swing.text.View[], java.awt.Shape[], double[]),{METHOD_LOC_MaxBound=43.0, METHOD_LOC_UpperQuartile=19.0},LongMethod,19.0)
+
+columba-1.4-src - core/src/main/java/org/columba/core/print/cPrintVariable.java - print - 1 LongMethod(16.0,processCodeString(),org.columba.core.print.cPrintVariable,LongMethod,{METHOD_LOC_MaxBound=29.5, METHOD_LOC_UpperQuartile=16.0})
+
+columba-1.4-src - core/src/main/java/org/columba/core/print/cPrintVariable.java - processCodeString - 1 LongMethod(16.0,processCodeString(),org.columba.core.print.cPrintVariable,LongMethod,{METHOD_LOC_MaxBound=29.5, METHOD_LOC_UpperQuartile=16.0})
+
+columba-1.4-src - core/src/main/java/org/columba/core/scripting/BeanshellService.java - initService - 1 LongMethod(initService(),5.0,LongMethod,org.columba.core.scripting.BeanshellService,{METHOD_LOC_MaxBound=12.5, METHOD_LOC_UpperQuartile=5.0})
+
+columba-1.4-src - mail/src/main/java/org/columba/mail/folder/command/SaveMessageBodyAsCommand.java - execute - 1 LongMethod(52.0,LongMethod,{METHOD_LOC_MaxBound=121.0, METHOD_LOC_UpperQuartile=52.0},execute(unknown.ghost.packag.IWorkerStatusController[]),org.columba.mail.folder.command.SaveMessageBodyAsCommand)
+
+columba-1.4-src - mail/src/main/java/org/columba/mail/folder/event/FolderEventDelegator.java - processTableEvents - 1 LongMethod(39.0,{METHOD_LOC_MaxBound=93.0, METHOD_LOC_UpperQuartile=39.0},LongMethod,org.columba.mail.folder.event.FolderEventDelegator,processTableEvents())
+
+columba-1.4-src - mail/src/main/java/org/columba/mail/folder/headercache/DefaultCloseableIterator.java - hasNext - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,hasNext(),org.columba.mail.folder.headercache.DefaultCloseableIterator,LongMethod)
+
+columba-1.4-src - mail/src/main/java/org/columba/mail/folder/imap/DummyObservable.java - isCancelled - 1 LongMethod(org.columba.mail.folder.imap.DummyObservable,{METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,LongMethod,isCancelled())
+
+columba-1.4-src - mail/src/main/java/org/columba/mail/folder/outbox/SendListManager.java - add - 1 LongMethod(12.0,org.columba.mail.folder.outbox.SendListManager,{METHOD_LOC_MaxBound=28.5, METHOD_LOC_UpperQuartile=12.0},LongMethod,add(unknown.ghost.packag.SendableMessage[]))
+
+columba-1.4-src - mail/src/main/java/org/columba/mail/folder/outbox/SendListManager.java - add - 1 LongMethod(12.0,org.columba.mail.folder.outbox.SendListManager,{METHOD_LOC_MaxBound=28.5, METHOD_LOC_UpperQuartile=12.0},LongMethod,add(unknown.ghost.packag.SendableMessage[]))
+
+columba-1.4-src - mail/src/main/java/org/columba/mail/gui/composer/SubjectController.java - checkState - 1 LongMethod(checkState(),10.0,org.columba.mail.gui.composer.SubjectController,LongMethod,{METHOD_LOC_MaxBound=25.0, METHOD_LOC_UpperQuartile=10.0})
+
+columba-1.4-src - mail/src/main/java/org/columba/mail/gui/config/account/DefaultPanel.java - isFinished - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},org.columba.mail.gui.config.account.DefaultPanel,1.0,isFinished(),LongMethod)
+
+columba-1.4-src - mail/src/main/java/org/columba/mail/gui/config/accountwizard/AccountCreator.java - wizardFinished - 1 LongMethod(org.columba.mail.gui.config.accountwizard.AccountCreator,LongMethod,{METHOD_LOC_MaxBound=70.0, METHOD_LOC_UpperQuartile=28.0},28.0,wizardFinished(unknown.ghost.packag.WizardModelEvent[]))
+
+columba-1.4-src - mail/src/main/java/org/columba/mail/gui/config/mailboximport/MailboxImporter.java - wizardFinished - 1 LongMethod({METHOD_LOC_MaxBound=27.5, METHOD_LOC_UpperQuartile=11.0},11.0,LongMethod,org.columba.mail.gui.config.mailboximport.MailboxImporter,wizardFinished(unknown.ghost.packag.WizardModelEvent[]))
+
+columba-1.4-src - mail/src/main/java/org/columba/mail/gui/message/viewer/TextViewer.java - view - 1 LongMethod(25.0,LongMethod,org.columba.mail.gui.message.viewer.TextViewer,{METHOD_LOC_MaxBound=62.5, METHOD_LOC_UpperQuartile=25.0},downloadCIDParts(java.lang.String[], unknown.ghost.packag.MimeTree[]))
+
+columba-1.4-src - mail/src/main/java/org/columba/mail/gui/message/viewer/TextViewer.java - downloadCIDParts - 1 LongMethod(25.0,LongMethod,org.columba.mail.gui.message.viewer.TextViewer,{METHOD_LOC_MaxBound=62.5, METHOD_LOC_UpperQuartile=25.0},downloadCIDParts(java.lang.String[], unknown.ghost.packag.MimeTree[]))
+
+columba-1.4-src - mail/src/main/java/org/columba/mail/gui/search/BasicResultPanel.java - resultArrived - 1 LongMethod({METHOD_LOC_MaxBound=22.5, METHOD_LOC_UpperQuartile=9.0},resultArrived(unknown.ghost.packag.IResultEvent[]),LongMethod,9.0,org.columba.mail.gui.search.BasicResultPanel)
+
+columba-1.4-src - mail/src/main/java/org/columba/mail/gui/search/ComplexResultPanel.java - resultArrived - 1 LongMethod({METHOD_LOC_MaxBound=17.5, METHOD_LOC_UpperQuartile=7.0},resultArrived(unknown.ghost.packag.IResultEvent[]),7.0,LongMethod,org.columba.mail.gui.search.ComplexResultPanel)
+
+columba-1.4-src - mail/src/main/java/org/columba/mail/gui/search/CriteriaResultPanel.java - resultArrived - 1 LongMethod({METHOD_LOC_MaxBound=22.5, METHOD_LOC_UpperQuartile=9.0},resultArrived(unknown.ghost.packag.IResultEvent[]),org.columba.mail.gui.search.CriteriaResultPanel,LongMethod,9.0)
+
+columba-1.4-src - mail/src/main/java/org/columba/mail/gui/table/TableView.java - createTableColumn - 1 LongMethod(26.0,createTableColumn(java.lang.String[], int[]),{METHOD_LOC_MaxBound=65.0, METHOD_LOC_UpperQuartile=26.0},org.columba.mail.gui.table.TableView,LongMethod)
+
+columba-1.4-src - mail/src/main/java/org/columba/mail/gui/tree/action/EmptyFolderAction.java - selectionChanged - 1 LongMethod(3.0,selectionChanged(unknown.ghost.packag.SelectionChangedEvent[]),LongMethod,org.columba.mail.gui.tree.action.EmptyFolderAction,{METHOD_LOC_MaxBound=7.5, METHOD_LOC_UpperQuartile=3.0})
+
+columba-1.4-src - mail/src/main/java/org/columba/mail/spam/MacchiatoPlugin.java - trainMessageAsHam - 1 LongMethod({METHOD_LOC_MaxBound=57.5, METHOD_LOC_UpperQuartile=23.0},23.0,LongMethod,org.columba.mail.spam.MacchiatoPlugin,trainMessageAsHam(unknown.ghost.packag.IMailbox[], java.lang.Object[]))
+
+columba-1.4-src - mail/src/main/java/org/columba/mail/spam/spamassassin/SpamAssassinPlugin.java - scoreMessage - 1 LongMethod({METHOD_LOC_MaxBound=52.5, METHOD_LOC_UpperQuartile=21.0},21.0,scoreMessage(unknown.ghost.packag.IMailbox[], java.lang.Object[]),org.columba.mail.spam.spamassassin.SpamAssassinPlugin,LongMethod)
+
+columba-1.4-src - plugins/org.columba.chat.altura/src/org/columba/chat/AlturaComponent.java - init - 1 LongMethod(org.columba.chat.AlturaComponent,4.0,{METHOD_LOC_MaxBound=10.0, METHOD_LOC_UpperQuartile=4.0},LongMethod,init())
+
+columba-1.4-src - plugins/org.columba.core.LogDisplay/src/org/columba/core/gui/logdisplay/LogRecordListRenderer.java - getListCellRendererComponent - 1 LongMethod(getListCellRendererComponent(javax.swing.JList[], java.lang.Object[], int[], boolean[], boolean[]),org.columba.core.gui.logdisplay.LogRecordListRenderer,13.0,{METHOD_LOC_MaxBound=32.5, METHOD_LOC_UpperQuartile=13.0},LongMethod)
+
+columba-1.4-src - plugins/org.columba.mail.PlaySoundFilterAction/src/org/columba/mail/filter/plugins/PlaySound.java - play - 1 LongMethod({METHOD_LOC_MaxBound=7.0, METHOD_LOC_UpperQuartile=4.0},play(java.net.URL[]),4.0,org.columba.mail.filter.plugins.PlaySound,LongMethod)
+
+columba-1.4-src - plugins/org.columba.mail.PlaySoundFilterAction/src/org/columba/mail/filter/plugins/PlaySound.java - play - 1 LongMethod({METHOD_LOC_MaxBound=7.0, METHOD_LOC_UpperQuartile=4.0},play(java.net.URL[]),4.0,org.columba.mail.filter.plugins.PlaySound,LongMethod)
+
+hibernate-distribution-3.3.2.GA - project/core/src/main/java/org/hibernate/collection/PersistentArrayHolder.java - getDeletes - 1 LongMethod({METHOD_LOC_MaxBound=35.0, METHOD_LOC_UpperQuartile=14.0},14.0,getDeletes(unknown.ghost.packag.CollectionPersister[], boolean[]),org.hibernate.collection.PersistentArrayHolder,LongMethod)
+
+hibernate-distribution-3.3.2.GA - project/core/src/main/java/org/hibernate/collection/PersistentElementHolder.java - getDeletes - 1 LongMethod(13.0,{METHOD_LOC_MaxBound=32.5, METHOD_LOC_UpperQuartile=13.0},getDeletes(unknown.ghost.packag.CollectionPersister[], boolean[]),LongMethod,org.hibernate.collection.PersistentElementHolder)
+
+hibernate-distribution-3.3.2.GA - project/core/src/main/java/org/hibernate/collection/PersistentIndexedElementHolder.java - equalsSnapshot - 1 LongMethod(13.0,org.hibernate.collection.PersistentIndexedElementHolder,{METHOD_LOC_MaxBound=32.5, METHOD_LOC_UpperQuartile=13.0},equalsSnapshot(unknown.ghost.packag.CollectionPersister[]),LongMethod)
+
+hibernate-distribution-3.3.2.GA - project/core/src/main/java/org/hibernate/connection/DatasourceConnectionProvider.java - configure - 1 LongMethod({METHOD_LOC_MaxBound=35.0, METHOD_LOC_UpperQuartile=14.0},14.0,configure(java.util.Properties[]),LongMethod,org.hibernate.connection.DatasourceConnectionProvider)
+
+hibernate-distribution-3.3.2.GA - project/core/src/main/java/org/hibernate/connection/UserSuppliedConnectionProvider.java - closeConnection - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,org.hibernate.connection.UserSuppliedConnectionProvider,closeConnection(java.sql.Connection[]),LongMethod)
+
+hibernate-distribution-3.3.2.GA - project/core/src/main/java/org/hibernate/connection/UserSuppliedConnectionProvider.java - close - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,org.hibernate.connection.UserSuppliedConnectionProvider,closeConnection(java.sql.Connection[]),LongMethod)
+
+hibernate-distribution-3.3.2.GA - project/core/src/main/java/org/hibernate/EmptyInterceptor.java - findDirty - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,findDirty(java.lang.Object[], java.io.Serializable[], java.lang.Object[][], java.lang.Object[][], java.lang.String[][], unknown.ghost.packag.Type[][]),LongMethod,org.hibernate.EmptyInterceptor)
+
+hibernate-distribution-3.3.2.GA - project/core/src/main/java/org/hibernate/event/def/DefaultMergeEventListener.java - onMerge - 1 LongMethod(41.0,onMerge(unknown.ghost.packag.MergeEvent[], java.util.Map[]),LongMethod,{METHOD_LOC_MaxBound=102.5, METHOD_LOC_UpperQuartile=41.0},org.hibernate.event.def.DefaultMergeEventListener)
+
+hibernate-distribution-3.3.2.GA - project/core/src/main/java/org/hibernate/event/def/DefaultMergeEventListener.java - onMerge - 1 LongMethod(41.0,onMerge(unknown.ghost.packag.MergeEvent[], java.util.Map[]),LongMethod,{METHOD_LOC_MaxBound=102.5, METHOD_LOC_UpperQuartile=41.0},org.hibernate.event.def.DefaultMergeEventListener)
+
+hibernate-distribution-3.3.2.GA - project/core/src/main/java/org/hibernate/hql/classic/GroupByParser.java - token - 1 LongMethod(org.hibernate.hql.classic.GroupByParser,5.0,token(java.lang.String[], unknown.ghost.packag.QueryTranslatorImpl[]),LongMethod,{METHOD_LOC_MaxBound=12.5, METHOD_LOC_UpperQuartile=5.0})
+
+hibernate-distribution-3.3.2.GA - project/core/src/main/java/org/hibernate/hql/classic/GroupByParser.java - token - 1 LongMethod(org.hibernate.hql.classic.GroupByParser,5.0,token(java.lang.String[], unknown.ghost.packag.QueryTranslatorImpl[]),LongMethod,{METHOD_LOC_MaxBound=12.5, METHOD_LOC_UpperQuartile=5.0})
+
+hibernate-distribution-3.3.2.GA - project/core/src/main/java/org/hibernate/hql/classic/GroupByParser.java - token - 1 LongMethod(org.hibernate.hql.classic.GroupByParser,5.0,token(java.lang.String[], unknown.ghost.packag.QueryTranslatorImpl[]),LongMethod,{METHOD_LOC_MaxBound=12.5, METHOD_LOC_UpperQuartile=5.0})
+
+hibernate-distribution-3.3.2.GA - project/core/src/main/java/org/hibernate/hql/classic/OrderByParser.java - token - 1 LongMethod(token(java.lang.String[], unknown.ghost.packag.QueryTranslatorImpl[]),org.hibernate.hql.classic.OrderByParser,8.0,LongMethod,{METHOD_LOC_MaxBound=20.0, METHOD_LOC_UpperQuartile=8.0})
+
+hibernate-distribution-3.3.2.GA - project/core/src/main/java/org/hibernate/hql/classic/OrderByParser.java - token - 1 LongMethod(token(java.lang.String[], unknown.ghost.packag.QueryTranslatorImpl[]),org.hibernate.hql.classic.OrderByParser,8.0,LongMethod,{METHOD_LOC_MaxBound=20.0, METHOD_LOC_UpperQuartile=8.0})
+
+hibernate-distribution-3.3.2.GA - project/core/src/main/java/org/hibernate/hql/classic/OrderByParser.java - token - 1 LongMethod(token(java.lang.String[], unknown.ghost.packag.QueryTranslatorImpl[]),org.hibernate.hql.classic.OrderByParser,8.0,LongMethod,{METHOD_LOC_MaxBound=20.0, METHOD_LOC_UpperQuartile=8.0})
+
+hibernate-distribution-3.3.2.GA - project/core/src/main/java/org/hibernate/id/insert/AbstractSelectingDelegate.java - performInsert - 1 LongMethod(performInsert(java.lang.String[], unknown.ghost.packag.SessionImplementor[], unknown.ghost.packag.Binder[]),org.hibernate.id.insert.AbstractSelectingDelegate,{METHOD_LOC_MaxBound=45.0, METHOD_LOC_UpperQuartile=18.0},LongMethod,18.0)
+
+hibernate-distribution-3.3.2.GA - project/core/src/main/java/org/hibernate/tuple/entity/AbstractEntityTuplizer.java - getIdentifier - 1 LongMethod(org.hibernate.tuple.entity.AbstractEntityTuplizer,{METHOD_LOC_MaxBound=45.0, METHOD_LOC_UpperQuartile=18.0},LongMethod,18.0,getIdentifier(java.lang.Object[]))
+
+hibernate-distribution-3.3.2.GA - project/jmx/src/main/java/org/hibernate/jmx/SessionFactoryStub.java - readResolve - 1 LongMethod(org.hibernate.jmx.SessionFactoryStub,8.0,LongMethod,{METHOD_LOC_MaxBound=20.0, METHOD_LOC_UpperQuartile=8.0},readResolve())
+
+hibernate-distribution-3.3.2.GA - project/testing/src/main/java/org/hibernate/junit/functional/FunctionalTestCase.java - runTest - 1 LongMethod(25.0,runTest(),org.hibernate.junit.functional.FunctionalTestCase,LongMethod,{METHOD_LOC_MaxBound=62.5, METHOD_LOC_UpperQuartile=25.0})
+
+hibernate-distribution-3.3.2.GA - project/testsuite/src/test/java/org/hibernate/test/connections/ConnectionManagementTestCase.java - testSessionClosedProtections - 1 LongMethod(org.hibernate.test.connections.ConnectionManagementTestCase,{METHOD_LOC_MaxBound=57.5, METHOD_LOC_UpperQuartile=23.0},23.0,testSessionClosedProtections(),LongMethod)
+
+hibernate-distribution-3.3.2.GA - project/testsuite/src/test/java/org/hibernate/test/instrument/cases/AbstractExecutable.java - prepare - 1 LongMethod(5.0,LongMethod,org.hibernate.test.instrument.cases.AbstractExecutable,{METHOD_LOC_MaxBound=12.5, METHOD_LOC_UpperQuartile=5.0},prepare())
+
+hibernate-distribution-3.3.2.GA - project/testsuite/src/test/java/org/hibernate/test/interfaceproxy/DocumentInterceptor.java - onFlushDirty - 1 LongMethod(onFlushDirty(java.lang.Object[], java.io.Serializable[], java.lang.Object[][], java.lang.Object[][], java.lang.String[][], unknown.ghost.packag.Type[][]),4.0,{METHOD_LOC_MaxBound=10.0, METHOD_LOC_UpperQuartile=4.0},LongMethod,org.hibernate.test.interfaceproxy.DocumentInterceptor)
+
+hibernate-distribution-3.3.2.GA - project/testsuite/src/test/java/org/hibernate/test/legacy/CustomPersister.java - load - 1 LongMethod(org.hibernate.test.legacy.CustomPersister,8.0,load(java.io.Serializable[], java.lang.Object[], unknown.ghost.packag.LockMode[], unknown.ghost.packag.SessionImplementor[]),LongMethod,{METHOD_LOC_MaxBound=20.0, METHOD_LOC_UpperQuartile=8.0})
+
+hibernate-distribution-3.3.2.GA - project/testsuite/src/test/java/org/hibernate/test/legacy/Qux.java - onSave - 1 LongMethod(org.hibernate.test.legacy.Qux,{METHOD_LOC_MaxBound=17.5, METHOD_LOC_UpperQuartile=7.0},7.0,LongMethod,onSave(unknown.ghost.packag.Session[]))
+
+hibernate-distribution-3.3.2.GA - project/testsuite/src/test/java/org/hibernate/test/mixed/DocumentInterceptor.java - onFlushDirty - 1 LongMethod(onFlushDirty(java.lang.Object[], java.io.Serializable[], java.lang.Object[][], java.lang.Object[][], java.lang.String[][], unknown.ghost.packag.Type[][]),4.0,{METHOD_LOC_MaxBound=10.0, METHOD_LOC_UpperQuartile=4.0},org.hibernate.test.mixed.DocumentInterceptor,LongMethod)
+
+hibernate-distribution-3.3.2.GA - project/tutorials/eg/src/main/java/org/hibernate/auction/Main.java - main - 1 AntiSingleton(mainItem,mainSeller,AntiSingleton,org.hibernate.auction.Main,mainBidder)
+
+hibernate-distribution-3.3.2.GA - project/tutorials/web/src/main/java/org/hibernate/tutorial/web/SessionInterceptor.java - doFilter - 1 LongMethod(doFilter(unknown.ghost.packag.ServletRequest[], unknown.ghost.packag.ServletResponse[], unknown.ghost.packag.FilterChain[]),10.0,org.hibernate.tutorial.web.SessionInterceptor,LongMethod,{METHOD_LOC_MaxBound=25.0, METHOD_LOC_UpperQuartile=10.0})
+
+jEdit - bsh/BshClassManager.java - loadSourceClass - 1 LongMethod(12.0,{METHOD_LOC_MaxBound=30.0, METHOD_LOC_UpperQuartile=12.0},LongMethod,loadSourceClass(java.lang.String[]),bsh.BshClassManager)
+
+jEdit - bsh/Primitive.java - wrap - 1 AntiSingleton(bsh.Primitive,primitiveToWrapper,wrapperToPrimitive,AntiSingleton)
+
+jEdit - bsh/Primitive.java - wrap - 1 AntiSingleton(bsh.Primitive,primitiveToWrapper,wrapperToPrimitive,AntiSingleton)
+
+jEdit - com/microstar/xml/HandlerBase.java - error - 1 LongMethod(error(java.lang.String[], java.lang.String[], int[], int[]),{METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,LongMethod,com.microstar.xml.HandlerBase)
+
+jEdit - gnu/regexp/RETokenEndSub.java - match - 1 LongMethod(2.0,{METHOD_LOC_MaxBound=5.0, METHOD_LOC_UpperQuartile=2.0},LongMethod,gnu.regexp.RETokenEndSub,match(unknown.ghost.packag.CharIndexed[], unknown.ghost.packag.REMatch[]))
+
+jEdit - installer/ConsoleProgress.java - done - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,done(),installer.ConsoleProgress,LongMethod)
+
+jEdit - installer/VariableGridLayout.java - getLayoutSize - 1 LongMethod(34.0,getLayoutSize(java.awt.Container[], int[]),LongMethod,{METHOD_LOC_MaxBound=85.0, METHOD_LOC_UpperQuartile=34.0},installer.VariableGridLayout)
+
+jEdit - jars/MacOS/macos/MacOSPlugin.java - start - 1 AntiSingleton(started,macos.MacOSPlugin,AntiSingleton)
+
+jEdit - org/gjt/sp/jedit/AbstractOptionPane.java - addSeparator - 1 LongMethod(org.gjt.sp.jedit.AbstractOptionPane,26.0,{METHOD_LOC_MaxBound=65.0, METHOD_LOC_UpperQuartile=26.0},addSeparator(java.lang.String[]),LongMethod)
+
+jEdit - org/gjt/sp/jedit/AbstractOptionPane.java - addSeparator - 1 LongMethod(org.gjt.sp.jedit.AbstractOptionPane,26.0,{METHOD_LOC_MaxBound=65.0, METHOD_LOC_UpperQuartile=26.0},addSeparator(java.lang.String[]),LongMethod)
+
+jEdit - org/gjt/sp/jedit/gui/FontSelector.java - init - 1 LongMethod({METHOD_LOC_MaxBound=121.5, METHOD_LOC_UpperQuartile=57.0},LongMethod,57.0,init(java.awt.Font[]),org.gjt.sp.jedit.gui.FontSelectorDialog)
+
+jEdit - org/gjt/sp/jedit/gui/JCheckBoxList.java - init - 1 LongMethod(13.0,{METHOD_LOC_MaxBound=25.0, METHOD_LOC_UpperQuartile=13.0},org.gjt.sp.jedit.gui.JCheckBoxList,LongMethod,init())
+
+jEdit - org/gjt/sp/jedit/gui/VariableGridLayout.java - getLayoutSize - 1 LongMethod(34.0,getLayoutSize(java.awt.Container[], int[]),org.gjt.sp.jedit.gui.VariableGridLayout,LongMethod,{METHOD_LOC_MaxBound=85.0, METHOD_LOC_UpperQuartile=34.0})
+
+jEdit - org/gjt/sp/jedit/io/VFS.java - _listDirectory - 1 LongMethod(_listDirectory(java.lang.Object[], java.util.ArrayList[][], java.util.ArrayList[][], java.lang.String[], unknown.ghost.packag.RE[], boolean[], java.awt.Component[]),org.gjt.sp.jedit.io.VFS,{METHOD_LOC_MaxBound=47.5, METHOD_LOC_UpperQuartile=19.0},LongMethod,19.0)
+
+jEdit - org/gjt/sp/jedit/io/VFS.java - _listDirectory - 1 LongMethod(_listDirectory(java.lang.Object[], java.util.ArrayList[][], java.util.ArrayList[][], java.lang.String[], unknown.ghost.packag.RE[], boolean[], java.awt.Component[]),org.gjt.sp.jedit.io.VFS,{METHOD_LOC_MaxBound=47.5, METHOD_LOC_UpperQuartile=19.0},LongMethod,19.0)
+
+jEdit - org/gjt/sp/jedit/io/VFS.java - _listDirectory - 1 LongMethod(_listDirectory(java.lang.Object[], java.util.ArrayList[][], java.util.ArrayList[][], java.lang.String[], unknown.ghost.packag.RE[], boolean[], java.awt.Component[]),org.gjt.sp.jedit.io.VFS,{METHOD_LOC_MaxBound=47.5, METHOD_LOC_UpperQuartile=19.0},LongMethod,19.0)
+
+jEdit - org/gjt/sp/jedit/options/AbbrevsOptionPane.java - _init - 1 LazyClass(4.0,{WMC_MinBound=0.0, WMC_LowerQuartile=36.0},{NMD_NAD_MinBound=11.5, NMD_NAD_LowerQuartile=13.0},LazyClass,org.gjt.sp.jedit.options.Abbrev);1 LongMethod(org.gjt.sp.jedit.options.AbbrevsOptionPane,{METHOD_LOC_MaxBound=139.5, METHOD_LOC_UpperQuartile=60.0},60.0,LongMethod,_init())
+
+jEdit - org/gjt/sp/jedit/options/AbbrevsOptionPane.java - edit - 1 LazyClass(4.0,{WMC_MinBound=0.0, WMC_LowerQuartile=36.0},{NMD_NAD_MinBound=11.5, NMD_NAD_LowerQuartile=13.0},LazyClass,org.gjt.sp.jedit.options.Abbrev);1 LongMethod(org.gjt.sp.jedit.options.AbbrevsOptionPane,{METHOD_LOC_MaxBound=139.5, METHOD_LOC_UpperQuartile=60.0},60.0,LongMethod,_init())
+
+jEdit - org/gjt/sp/jedit/options/BrowserColorsOptionPane.java - _init - 1 LongMethod(org.gjt.sp.jedit.options.BrowserColorsOptionPane,40.0,LongMethod,{METHOD_LOC_MaxBound=89.5, METHOD_LOC_UpperQuartile=40.0},_init())
+
+jEdit - org/gjt/sp/jedit/options/ContextOptionPane.java - _init - 1 LongMethod({METHOD_LOC_MaxBound=101.0, METHOD_LOC_UpperQuartile=47.0},org.gjt.sp.jedit.options.ContextOptionPane,LongMethod,_init(),47.0)
+
+jEdit - org/gjt/sp/jedit/options/DockingOptionPane.java - createWindowTableScroller - 1 LongMethod(16.0,{METHOD_LOC_MaxBound=28.0, METHOD_LOC_UpperQuartile=16.0},org.gjt.sp.jedit.options.DockingOptionPane,LongMethod,createWindowTableScroller())
+
+jEdit - org/gjt/sp/jedit/options/SyntaxHiliteOptionPane.java - createStyleTableScroller - 1 LongMethod(15.0,org.gjt.sp.jedit.options.SyntaxHiliteOptionPane,LongMethod,createStyleTableScroller(),{METHOD_LOC_MaxBound=24.0, METHOD_LOC_UpperQuartile=15.0})
+
+jEdit - org/gjt/sp/jedit/options/ToolBarOptionPane.java - _init - 1 LongMethod(73.0,{METHOD_LOC_MaxBound=149.5, METHOD_LOC_UpperQuartile=73.0},org.gjt.sp.jedit.options.ToolBarOptionPane,LongMethod,_init())
+
+jfreechart-1.0.19 - source/org/jfree/chart/block/CenterArrangement.java - arrange - 1 LongMethod(24.0,{METHOD_LOC_MaxBound=60.0, METHOD_LOC_UpperQuartile=24.0},org.jfree.chart.block.CenterArrangement,arrange(unknown.ghost.packag.BlockContainer[], java.awt.Graphics2D[], unknown.ghost.packag.RectangleConstraint[]),LongMethod)
+
+jfreechart-1.0.19 - source/org/jfree/chart/block/ColumnArrangement.java - arrange - 1 LongMethod(org.jfree.chart.block.ColumnArrangement,arrangeNF(unknown.ghost.packag.BlockContainer[], java.awt.Graphics2D[], unknown.ghost.packag.RectangleConstraint[]),LongMethod,{METHOD_LOC_MaxBound=70.0, METHOD_LOC_UpperQuartile=28.0},28.0)
+
+jfreechart-1.0.19 - source/org/jfree/chart/block/FlowArrangement.java - arrange - 1 LongMethod(arrangeFN(unknown.ghost.packag.BlockContainer[], java.awt.Graphics2D[], unknown.ghost.packag.RectangleConstraint[]),26.0,{METHOD_LOC_MaxBound=65.0, METHOD_LOC_UpperQuartile=26.0},org.jfree.chart.block.FlowArrangement,LongMethod)
+
+jfreechart-1.0.19 - source/org/jfree/chart/block/FlowArrangement.java - arrangeFN - 1 LongMethod(arrangeFN(unknown.ghost.packag.BlockContainer[], java.awt.Graphics2D[], unknown.ghost.packag.RectangleConstraint[]),26.0,{METHOD_LOC_MaxBound=65.0, METHOD_LOC_UpperQuartile=26.0},org.jfree.chart.block.FlowArrangement,LongMethod)
+
+jfreechart-1.0.19 - source/org/jfree/chart/block/GridArrangement.java - arrange - 1 LongMethod(24.0,{METHOD_LOC_MaxBound=60.0, METHOD_LOC_UpperQuartile=24.0},arrange(unknown.ghost.packag.BlockContainer[], java.awt.Graphics2D[], unknown.ghost.packag.RectangleConstraint[]),LongMethod,org.jfree.chart.block.GridArrangement)
+
+jfreechart-1.0.19 - source/org/jfree/chart/JFreeChart.java - draw - 1 LazyClass({NMD_NAD_MinBound=0.0, NMD_NAD_LowerQuartile=2.0},2.0,7.0,LazyClass,org.jfree.chart.JFreeChartInfo,{WMC_MinBound=0.0, WMC_LowerQuartile=7.0});1 LongMethod(draw(java.awt.Graphics2D[], java.awt.geom.Rectangle2D[], java.awt.geom.Point2D[], unknown.ghost.packag.ChartRenderingInfo[]),{METHOD_LOC_MaxBound=113.0, METHOD_LOC_UpperQuartile=50.0},50.0,org.jfree.chart.JFreeChart,LongMethod)
+
+jfreechart-1.0.19 - source/org/jfree/chart/JFreeChart.java - draw - 1 LazyClass({NMD_NAD_MinBound=0.0, NMD_NAD_LowerQuartile=2.0},2.0,7.0,LazyClass,org.jfree.chart.JFreeChartInfo,{WMC_MinBound=0.0, WMC_LowerQuartile=7.0});1 LongMethod(draw(java.awt.Graphics2D[], java.awt.geom.Rectangle2D[], java.awt.geom.Point2D[], unknown.ghost.packag.ChartRenderingInfo[]),{METHOD_LOC_MaxBound=113.0, METHOD_LOC_UpperQuartile=50.0},50.0,org.jfree.chart.JFreeChart,LongMethod)
+
+jfreechart-1.0.19 - source/org/jfree/chart/JFreeChart.java - draw - 1 LazyClass({NMD_NAD_MinBound=0.0, NMD_NAD_LowerQuartile=2.0},2.0,7.0,LazyClass,org.jfree.chart.JFreeChartInfo,{WMC_MinBound=0.0, WMC_LowerQuartile=7.0});1 LongMethod(draw(java.awt.Graphics2D[], java.awt.geom.Rectangle2D[], java.awt.geom.Point2D[], unknown.ghost.packag.ChartRenderingInfo[]),{METHOD_LOC_MaxBound=113.0, METHOD_LOC_UpperQuartile=50.0},50.0,org.jfree.chart.JFreeChart,LongMethod)
+
+jfreechart-1.0.19 - source/org/jfree/chart/renderer/xy/XYItemRendererState.java - startSeriesPass - 1 ClassDataShouldBePrivate(workingLine,ClassDataShouldBePrivate,org.jfree.chart.renderer.xy.XYItemRendererState);1 LongMethod(2.0,{METHOD_LOC_MaxBound=5.0, METHOD_LOC_UpperQuartile=2.0},LongMethod,org.jfree.chart.renderer.xy.XYItemRendererState,startSeriesPass(unknown.ghost.packag.XYDataset[], int[], int[], int[], int[], int[]))
+
+jfreechart-1.0.19 - source/org/jfree/chart/servlet/DisplayChart.java - service - 1 LongMethod(24.0,service(unknown.ghost.packag.HttpServletRequest[], unknown.ghost.packag.HttpServletResponse[]),{METHOD_LOC_MaxBound=60.0, METHOD_LOC_UpperQuartile=24.0},LongMethod,org.jfree.chart.servlet.DisplayChart)
+
+jfreechart-1.0.19 - source/org/jfree/data/xy/DefaultWindDataset.java - equals - 1 LongMethod(12.0,org.jfree.data.xy.WindDataItem,LongMethod,equals(java.lang.Object[]),{METHOD_LOC_MaxBound=15.0, METHOD_LOC_UpperQuartile=12.0})
+
+jfreechart-1.0.19 - source/org/jfree/data/xy/DefaultWindDataset.java - equals - 1 LongMethod(12.0,org.jfree.data.xy.WindDataItem,LongMethod,equals(java.lang.Object[]),{METHOD_LOC_MaxBound=15.0, METHOD_LOC_UpperQuartile=12.0})
+
+jfreechart-1.0.19 - swt/org/jfree/experimental/chart/swt/editor/SWTNumberAxisEditor.java - focusLost - 1 LongMethod(org.jfree.experimental.chart.swt.editor.SWTNumberAxisEditor,8.0,LongMethod,focusLost(unknown.ghost.packag.FocusEvent[]),{METHOD_LOC_MaxBound=20.0, METHOD_LOC_UpperQuartile=8.0})
+
+jruby-1.4.0 - spec/java_integration/fixtures/MethodNames.java - id - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,java_integration.fixtures.MethodNames,__id__(),LongMethod)
+
+jruby-1.4.0 - spec/java_integration/fixtures/MethodNames.java - __id__ - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,java_integration.fixtures.MethodNames,__id__(),LongMethod)
+
+jruby-1.4.0 - src/org/jruby/ast/executable/AbstractScript.java - run - 1 ClassDataShouldBePrivate(filename,ClassDataShouldBePrivate,org.jruby.ast.executable.AbstractScript,runtimeCache)
+
+jruby-1.4.0 - src/org/jruby/compiler/ir/operands/Operand.java - fetchCompileTimeArrayElement - 1 LongMethod(fetchCompileTimeArrayElement(int[], boolean[]),{METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,LongMethod,org.jruby.compiler.ir.operands.Operand)
+
+jruby-1.4.0 - src/org/jruby/internal/runtime/FutureThread.java - run - 1 ClassDataShouldBePrivate(rubyThread,ClassDataShouldBePrivate,org.jruby.internal.runtime.FutureThread)
+
+jruby-1.4.0 - src/org/jruby/javasupport/proxy/JavaProxyClass.java - run - 1 AntiSingleton(org.jruby.javasupport.proxy.JavaProxyClass,runtimeTLS,AntiSingleton)
+
+jruby-1.4.0 - src/org/jruby/RubyException.java - message - 1 AntiSingleton(org.jruby.RubyException,TRACE_TYPE,AntiSingleton);1 ClassDataShouldBePrivate(ClassDataShouldBePrivate,org.jruby.RubyException,TRACE_TYPE,message)
+
+jruby-1.4.0 - src/org/jruby/runtime/assigner/Pre0Rest0Post0Assigner.java - assign - 1 LongMethod(convertToArray(unknown.ghost.packag.Ruby[], unknown.ghost.packag.IRubyObject[]),{METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,LongMethod,org.jruby.runtime.assigner.Pre0Rest0Post0Assigner)
+
+jruby-1.4.0 - src/org/jruby/runtime/assigner/Pre0Rest0Post0Assigner.java - assign - 1 LongMethod(convertToArray(unknown.ghost.packag.Ruby[], unknown.ghost.packag.IRubyObject[]),{METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,LongMethod,org.jruby.runtime.assigner.Pre0Rest0Post0Assigner)
+
+jruby-1.4.0 - src/org/jruby/runtime/assigner/Pre0Rest0Post0Assigner.java - assign - 1 LongMethod(convertToArray(unknown.ghost.packag.Ruby[], unknown.ghost.packag.IRubyObject[]),{METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,LongMethod,org.jruby.runtime.assigner.Pre0Rest0Post0Assigner)
+
+jruby-1.4.0 - src/org/jruby/runtime/assigner/Pre0Rest0Post0Assigner.java - assign - 1 LongMethod(convertToArray(unknown.ghost.packag.Ruby[], unknown.ghost.packag.IRubyObject[]),{METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,LongMethod,org.jruby.runtime.assigner.Pre0Rest0Post0Assigner)
+
+jruby-1.4.0 - src/org/jruby/runtime/assigner/Pre0Rest0Post0Assigner.java - assign - 1 LongMethod(convertToArray(unknown.ghost.packag.Ruby[], unknown.ghost.packag.IRubyObject[]),{METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,LongMethod,org.jruby.runtime.assigner.Pre0Rest0Post0Assigner)
+
+jruby-1.4.0 - src/org/jruby/runtime/assigner/Pre0Rest0Post0Assigner.java - convertToArray - 1 LongMethod(convertToArray(unknown.ghost.packag.Ruby[], unknown.ghost.packag.IRubyObject[]),{METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,LongMethod,org.jruby.runtime.assigner.Pre0Rest0Post0Assigner)
+
+jruby-1.4.0 - src/org/jruby/runtime/callsite/CachingCallSite.java - call - 1 AntiSingleton(totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite,AntiSingleton);1 ClassDataShouldBePrivate(ClassDataShouldBePrivate,totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite)
+
+jruby-1.4.0 - src/org/jruby/runtime/callsite/CachingCallSite.java - call - 1 AntiSingleton(totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite,AntiSingleton);1 ClassDataShouldBePrivate(ClassDataShouldBePrivate,totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite)
+
+jruby-1.4.0 - src/org/jruby/runtime/callsite/CachingCallSite.java - call - 1 AntiSingleton(totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite,AntiSingleton);1 ClassDataShouldBePrivate(ClassDataShouldBePrivate,totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite)
+
+jruby-1.4.0 - src/org/jruby/runtime/callsite/CachingCallSite.java - call - 1 AntiSingleton(totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite,AntiSingleton);1 ClassDataShouldBePrivate(ClassDataShouldBePrivate,totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite)
+
+jruby-1.4.0 - src/org/jruby/runtime/callsite/CachingCallSite.java - call - 1 AntiSingleton(totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite,AntiSingleton);1 ClassDataShouldBePrivate(ClassDataShouldBePrivate,totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite)
+
+jruby-1.4.0 - src/org/jruby/runtime/callsite/CachingCallSite.java - call - 1 AntiSingleton(totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite,AntiSingleton);1 ClassDataShouldBePrivate(ClassDataShouldBePrivate,totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite)
+
+jruby-1.4.0 - src/org/jruby/runtime/callsite/CachingCallSite.java - call - 1 AntiSingleton(totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite,AntiSingleton);1 ClassDataShouldBePrivate(ClassDataShouldBePrivate,totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite)
+
+jruby-1.4.0 - src/org/jruby/runtime/callsite/CachingCallSite.java - call - 1 AntiSingleton(totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite,AntiSingleton);1 ClassDataShouldBePrivate(ClassDataShouldBePrivate,totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite)
+
+jruby-1.4.0 - src/org/jruby/runtime/callsite/CachingCallSite.java - call - 1 AntiSingleton(totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite,AntiSingleton);1 ClassDataShouldBePrivate(ClassDataShouldBePrivate,totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite)
+
+jruby-1.4.0 - src/org/jruby/runtime/callsite/CachingCallSite.java - call - 1 AntiSingleton(totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite,AntiSingleton);1 ClassDataShouldBePrivate(ClassDataShouldBePrivate,totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite)
+
+jruby-1.4.0 - src/org/jruby/runtime/callsite/CachingCallSite.java - call - 1 AntiSingleton(totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite,AntiSingleton);1 ClassDataShouldBePrivate(ClassDataShouldBePrivate,totalCallSites,failedCallSites,org.jruby.runtime.callsite.CachingCallSite)
+
+jruby-1.4.0 - test/org/jruby/test/TestJavaReentrantExceptions.java - testExceptionsAcrossTheBridge - 1 LazyClass(1.0,{WMC_MinBound=0.5, WMC_LowerQuartile=2.0},org.jruby.test.ExpectedException,LazyClass,{NMD_NAD_MinBound=1.5, NMD_NAD_LowerQuartile=3.0});1 LongMethod(testExceptionsAcrossTheBridge(),LongMethod,9.0,{METHOD_LOC_MaxBound=21.0, METHOD_LOC_UpperQuartile=9.0},org.jruby.test.TestJavaReentrantExceptions)
+
+sql12 - app/src/net/sourceforge/squirrel_sql/client/gui/db/ConnectToAliasCallBack.java - errorOccured - 1 LongMethod(errorOccured(java.lang.Throwable[]),{METHOD_LOC_MaxBound=47.5, METHOD_LOC_UpperQuartile=19.0},LongMethod,net.sourceforge.squirrel_sql.client.gui.db.ConnectToAliasCallBack,19.0)
+
+sql12 - app/src/net/sourceforge/squirrel_sql/client/gui/desktopcontainer/DockDelegate.java - pack - 1 LongMethod(net.sourceforge.squirrel_sql.client.gui.desktopcontainer.DockDelegate,6.0,LongMethod,{METHOD_LOC_MaxBound=15.0, METHOD_LOC_UpperQuartile=6.0},setDockHandle(unknown.ghost.packag.DockHandle[]))
+
+sql12 - app/src/net/sourceforge/squirrel_sql/client/gui/desktopcontainer/DockDelegate.java - setDockHandle - 1 LongMethod(net.sourceforge.squirrel_sql.client.gui.desktopcontainer.DockDelegate,6.0,LongMethod,{METHOD_LOC_MaxBound=15.0, METHOD_LOC_UpperQuartile=6.0},setDockHandle(unknown.ghost.packag.DockHandle[]))
+
+sql12 - app/src/net/sourceforge/squirrel_sql/client/gui/desktopcontainer/TabDelegate.java - setTabHandle - 1 LongMethod({METHOD_LOC_MaxBound=17.5, METHOD_LOC_UpperQuartile=7.0},7.0,LongMethod,net.sourceforge.squirrel_sql.client.gui.desktopcontainer.TabDelegate,setTabHandle(unknown.ghost.packag.TabHandle[]))
+
+sql12 - app/src/net/sourceforge/squirrel_sql/client/gui/desktopcontainer/TabDelegate.java - pack - 1 LongMethod({METHOD_LOC_MaxBound=17.5, METHOD_LOC_UpperQuartile=7.0},7.0,LongMethod,net.sourceforge.squirrel_sql.client.gui.desktopcontainer.TabDelegate,setTabHandle(unknown.ghost.packag.TabHandle[]))
+
+sql12 - app/src/net/sourceforge/squirrel_sql/client/plugin/DefaultPlugin.java - getPluginAppSettingsFolder - 1 LongMethod(getPluginAppSettingsFolder(),10.0,LongMethod,{METHOD_LOC_MaxBound=25.0, METHOD_LOC_UpperQuartile=10.0},net.sourceforge.squirrel_sql.client.plugin.DefaultPlugin)
+
+sql12 - app/src/net/sourceforge/squirrel_sql/client/session/DefaultSQLExecuterHandler.java - sqlExecutionException - 1 LongMethod(sqlExecutionException(java.lang.Throwable[], java.lang.String[]),10.0,net.sourceforge.squirrel_sql.client.session.DefaultSQLExecuterHandler,LongMethod,{METHOD_LOC_MaxBound=25.0, METHOD_LOC_UpperQuartile=10.0})
+
+sql12 - app/src/net/sourceforge/squirrel_sql/client/session/event/SQLExecutionAdapter.java - statementExecuting - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,net.sourceforge.squirrel_sql.client.session.event.SQLExecutionAdapter,LongMethod,statementExecuting(java.lang.String[]))
+
+sql12 - app/src/net/sourceforge/squirrel_sql/client/session/mainpanel/objecttree/tabs/BasePreparedStatementTab.java - refreshComponent - 1 LongMethod(12.0,net.sourceforge.squirrel_sql.client.session.mainpanel.objecttree.tabs.BasePreparedStatementTab,{METHOD_LOC_MaxBound=30.0, METHOD_LOC_UpperQuartile=12.0},LongMethod,refreshComponent())
+
+sql12 - app/src/net/sourceforge/squirrel_sql/client/session/mainpanel/objecttree/tabs/BaseSourceTab.java - refreshComponent - 1 LongMethod(net.sourceforge.squirrel_sql.client.session.mainpanel.objecttree.tabs.BaseSourceTab,10.0,LongMethod,{METHOD_LOC_MaxBound=25.0, METHOD_LOC_UpperQuartile=10.0},refreshComponent())
+
+sql12 - app/src/net/sourceforge/squirrel_sql/client/session/parser/kernel/Parser.java - parse - 1 ClassDataShouldBePrivate(ClassDataShouldBePrivate,net.sourceforge.squirrel_sql.client.session.parser.kernel.Parser,rootSchema,statements)
+
+sql12 - plugins/dbcopy/test/net/sourceforge/squirrel_sql/plugins/dbcopy/gui/DummyPlugin.java - getPluginAppSettingsFolder - 1 LongMethod(getPluginAppSettingsFolder(),3.0,net.sourceforge.squirrel_sql.plugins.dbcopy.gui.DummyPlugin,LongMethod,{METHOD_LOC_MaxBound=7.5, METHOD_LOC_UpperQuartile=3.0})
+
+sql12 - plugins/hibernate/src/net/sourceforge/squirrel_sql/plugins/hibernate/HqlSyntaxHighlightTokenMatcherProxy.java - isColumn - 1 LongMethod(net.sourceforge.squirrel_sql.plugins.hibernate.HqlSyntaxHighlightTokenMatcherProxy,isColumn(char[][], int[], int[]),3.0,LongMethod,{METHOD_LOC_MaxBound=7.5, METHOD_LOC_UpperQuartile=3.0})
+
+sql12 - plugins/hibernate/src/net/sourceforge/squirrel_sql/plugins/hibernate/mapping/MappedObjectPanel.java - createTopPanel - 1 LongMethod(createTopPanel(),8.0,LongMethod,net.sourceforge.squirrel_sql.plugins.hibernate.mapping.MappedObjectPanel,{METHOD_LOC_MaxBound=20.0, METHOD_LOC_UpperQuartile=8.0})
+
+sql12 - plugins/i18n/src/net/sourceforge/squirrel_sql/plugins/i18n/I18nPanelController.java - initialize - 1 LongMethod(net.sourceforge.squirrel_sql.plugins.i18n.I18nPanelController,2.0,{METHOD_LOC_MaxBound=5.0, METHOD_LOC_UpperQuartile=2.0},LongMethod,initialize(unknown.ghost.packag.IApplication[]))
+
+sql12 - plugins/laf/src/net/sourceforge/squirrel_sql/plugins/laf/DefaultLookAndFeelController.java - getPreferencesComponent - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,getPreferencesComponent(),LongMethod,net.sourceforge.squirrel_sql.plugins.laf.DefaultLookAndFeelController)
+
+sql12 - plugins/laf/src/net/sourceforge/squirrel_sql/plugins/laf/TonicLookAndFeelController.java - getPreferencesComponent - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,getPreferencesComponent(),LongMethod,net.sourceforge.squirrel_sql.plugins.laf.TonicLookAndFeelController)
+
+sql12 - plugins/mysql/src/net/sourceforge/squirrel_sql/plugins/mysql/tab/BaseSQLTab.java - refreshComponent - 1 LongMethod(net.sourceforge.squirrel_sql.plugins.mysql.tab.BaseSQLTab,12.0,{METHOD_LOC_MaxBound=30.0, METHOD_LOC_UpperQuartile=12.0},LongMethod,refreshComponent())
+
+sql12 - plugins/postgres/src/net/sourceforge/squirrel_sql/plugins/postgres/commands/handler/ProgressSQLExecuterHandler.java - sqlToBeExecuted - 1 LongMethod({METHOD_LOC_MaxBound=17.5, METHOD_LOC_UpperQuartile=7.0},net.sourceforge.squirrel_sql.plugins.postgres.commands.handler.ProgressSQLExecuterHandler,7.0,sqlToBeExecuted(java.lang.String[]),LongMethod)
+
+sql12 - plugins/sqlreplace/src/net/sourceforge/squirrel_sql/plugins/sqlreplace/SQLReplaceExecutionListener.java - statementExecuting - 1 LongMethod(net.sourceforge.squirrel_sql.plugins.sqlreplace.SQLReplaceExecutionListener,10.0,LongMethod,statementExecuting(java.lang.String[]),{METHOD_LOC_MaxBound=25.0, METHOD_LOC_UpperQuartile=10.0})
+
+sql12 - plugins/syntax/src/net/sourceforge/squirrel_sql/plugins/syntax/oster/DocReader.java - read - 1 LongMethod({METHOD_LOC_MaxBound=35.0, METHOD_LOC_UpperQuartile=14.0},14.0,read(char[][], int[], int[]),net.sourceforge.squirrel_sql.plugins.syntax.oster.DocumentReader,LongMethod)
+
+sql12 - plugins/syntax/src/net/sourceforge/squirrel_sql/plugins/syntax/oster/DocReader.java - read - 1 LongMethod({METHOD_LOC_MaxBound=35.0, METHOD_LOC_UpperQuartile=14.0},14.0,read(char[][], int[], int[]),net.sourceforge.squirrel_sql.plugins.syntax.oster.DocumentReader,LongMethod)
+
+sql12 - plugins/syntax/src/net/sourceforge/squirrel_sql/plugins/syntax/oster/DocReader.java - read - 1 LongMethod({METHOD_LOC_MaxBound=35.0, METHOD_LOC_UpperQuartile=14.0},14.0,read(char[][], int[], int[]),net.sourceforge.squirrel_sql.plugins.syntax.oster.DocumentReader,LongMethod)
+
+sql12 - test/external/net/sourceforge/squirrel_sql/client/update/xmlbeans/ChangeListXmlBeanExternalTest.java - testWriteChangeList - 1 LongMethod(net.sourceforge.squirrel_sql.client.update.xmlbeans.ChangeListXmlBeanExternalTest,{METHOD_LOC_MaxBound=27.5, METHOD_LOC_UpperQuartile=11.0},11.0,testWriteChangeList(),LongMethod)
+
+sql12 - test/jfctests/net/sourceforge/squirrel_sql/plugins/dbcopy/gui/DualProgressBarDialogTest.java - test - 1 LongMethod(test(),10.0,LongMethod,{METHOD_LOC_MaxBound=25.0, METHOD_LOC_UpperQuartile=10.0},net.sourceforge.squirrel_sql.plugins.dbcopy.gui.DualProgressBarDialogTest)
+
+sql12 - test/jfctests/net/sourceforge/squirrel_sql/plugins/mssql/gui/DummyPlugin.java - getPluginAppSettingsFolder - 1 LongMethod(net.sourceforge.squirrel_sql.plugins.mssql.gui.DummyPlugin,getPluginAppSettingsFolder(),3.0,LongMethod,{METHOD_LOC_MaxBound=7.5, METHOD_LOC_UpperQuartile=3.0})
+
+sql12 - test/jfctests/net/sourceforge/squirrel_sql/plugins/oracle/gui/DummyPlugin.java - getPluginAppSettingsFolder - 1 LongMethod(getPluginAppSettingsFolder(),3.0,LongMethod,{METHOD_LOC_MaxBound=7.5, METHOD_LOC_UpperQuartile=3.0},net.sourceforge.squirrel_sql.plugins.oracle.gui.DummyPlugin)
+
+sql12 - test/jfctests/net/sourceforge/squirrel_sql/plugins/sqlscript/prefs/DummyPlugin.java - getPluginAppSettingsFolder - 1 LongMethod(net.sourceforge.squirrel_sql.plugins.sqlscript.prefs.DummyPlugin,getPluginAppSettingsFolder(),3.0,LongMethod,{METHOD_LOC_MaxBound=7.5, METHOD_LOC_UpperQuartile=3.0})
+
+sql12 - test/mockobjects/net/sourceforge/squirrel_sql/client/MockApplication.java - getDataCache - 1 LongMethod(2.0,{METHOD_LOC_MaxBound=5.0, METHOD_LOC_UpperQuartile=2.0},net.sourceforge.squirrel_sql.client.MockApplication,LongMethod,getDataCache())
+
+sql12 - test/mockobjects/net/sourceforge/squirrel_sql/client/plugin/MockPlugin.java - getAliasPropertiesPanelControllers - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,LongMethod,getAliasPropertiesPanelControllers(unknown.ghost.packag.SQLAlias[]),net.sourceforge.squirrel_sql.client.plugin.MockPlugin)
+
+sql12 - test/mockobjects/net/sourceforge/squirrel_sql/client/session/MockSQLEntryPanel.java - addToSQLEntryAreaMenu - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,net.sourceforge.squirrel_sql.client.session.MockSQLEntryPanel,LongMethod,addToSQLEntryAreaMenu(javax.swing.Action[]))
+
+sql12 - test/mockobjects/net/sourceforge/squirrel_sql/client/session/MockSQLEntryPanel.java - addToSQLEntryAreaMenu - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,net.sourceforge.squirrel_sql.client.session.MockSQLEntryPanel,LongMethod,addToSQLEntryAreaMenu(javax.swing.Action[]))
+
+sql12 - test/mockobjects/net/sourceforge/squirrel_sql/fw/sql/MockSQLAlias.java - compareTo - 1 LongMethod({METHOD_LOC_MaxBound=2.5, METHOD_LOC_UpperQuartile=1.0},1.0,compareTo(java.lang.Object[]),net.sourceforge.squirrel_sql.fw.sql.MockSQLAlias,LongMethod)
+
+sql12 - test/src/net/sourceforge/squirrel_sql/client/gui/builders/SquirrelTabbedPaneTest.java - testAll_noUseScrollableTabs - 1 LongMethod(testAll_noUseScrollableTabs(),8.0,LongMethod,net.sourceforge.squirrel_sql.client.gui.builders.SquirrelTabbedPaneTest,{METHOD_LOC_MaxBound=20.0, METHOD_LOC_UpperQuartile=8.0})
+
+sql12 - test/src/net/sourceforge/squirrel_sql/client/mainframe/action/SavePreferencesCommandTest.java - testExecute - 1 LongMethod({METHOD_LOC_MaxBound=27.5, METHOD_LOC_UpperQuartile=11.0},11.0,testExecute(),net.sourceforge.squirrel_sql.client.mainframe.action.SavePreferencesCommandTest,LongMethod)
+
+sql12 - test/src/net/sourceforge/squirrel_sql/client/session/EditableSqlCheckTest.java - testGetTableNameFromSQL - 1 LongMethod(testGetTableNameFromSQL(java.lang.String[], java.lang.String[]),5.0,net.sourceforge.squirrel_sql.client.session.EditableSqlCheckTest,LongMethod,{METHOD_LOC_MaxBound=12.5, METHOD_LOC_UpperQuartile=5.0})
+
+sql12 - test/src/net/sourceforge/squirrel_sql/client/session/mainpanel/BaseMainPanelTabTest.java - testSessionCleanup - 1 LongMethod(testSessionCleanup(),net.sourceforge.squirrel_sql.client.session.mainpanel.BaseMainPanelTabTest,8.0,LongMethod,{METHOD_LOC_MaxBound=20.0, METHOD_LOC_UpperQuartile=8.0})
+
+sql12 - test/src/net/sourceforge/squirrel_sql/client/session/parser/kernel/ErrorInfoTest.java - testEqualsAndHashCode - 1 LongMethod(net.sourceforge.squirrel_sql.client.session.parser.kernel.ErrorInfoTest,testEqualsAndHashCode(),5.0,LongMethod,{METHOD_LOC_MaxBound=12.5, METHOD_LOC_UpperQuartile=5.0})
+
+sql12 - test/src/net/sourceforge/squirrel_sql/client/update/downloader/event/DownloadStatusEventTest.java - testGetSetException - 1 LongMethod(testGetSetException(),4.0,{METHOD_LOC_MaxBound=10.0, METHOD_LOC_UpperQuartile=4.0},LongMethod,net.sourceforge.squirrel_sql.client.update.downloader.event.DownloadStatusEventTest)
+
+sql12 - test/src/net/sourceforge/squirrel_sql/client/update/gui/installer/event/InstallStatusEventTest.java - testSetArtifactName - 1 LongMethod(testSetArtifactName(),{METHOD_LOC_MaxBound=17.5, METHOD_LOC_UpperQuartile=7.0},net.sourceforge.squirrel_sql.client.update.gui.installer.event.InstallStatusEventTest,7.0,LongMethod)
+
+sql12 - test/src/net/sourceforge/squirrel_sql/client/update/xmlbeans/ChannelXmlBeanTest.java - testEquals - 1 LongMethod(13.0,net.sourceforge.squirrel_sql.client.update.xmlbeans.ChannelXmlBeanTest,{METHOD_LOC_MaxBound=32.5, METHOD_LOC_UpperQuartile=13.0},testEquals(),LongMethod)
+
+sql12 - test/src/net/sourceforge/squirrel_sql/fw/completion/util/CompletionUtilsTest.java - testGetStringToParse - 1 LongMethod(net.sourceforge.squirrel_sql.fw.completion.util.CompletionUtilsTest,testGetStringToParse(),4.0,{METHOD_LOC_MaxBound=10.0, METHOD_LOC_UpperQuartile=4.0},LongMethod)
+
+sql12 - test/src/net/sourceforge/squirrel_sql/fw/dialects/DatabaseObjectQualifierTest.java - testDatabaseObjectQualifier - 1 LongMethod(testDatabaseObjectQualifier(),3.0,LongMethod,net.sourceforge.squirrel_sql.fw.dialects.DatabaseObjectQualifierTest,{METHOD_LOC_MaxBound=7.5, METHOD_LOC_UpperQuartile=3.0})
+
+sql12 - test/src/net/sourceforge/squirrel_sql/fw/dialects/IndexColInfoTest.java - testEqualsObject - 1 LongMethod(testEqualsObject(),net.sourceforge.squirrel_sql.fw.dialects.IndexColInfoTest,5.0,LongMethod,{METHOD_LOC_MaxBound=12.5, METHOD_LOC_UpperQuartile=5.0})
+
+sql12 - test/src/net/sourceforge/squirrel_sql/fw/dialects/OptionalSqlClauseTest.java - testOptionalSqlClauseStringTemplateStringString - 1 LongMethod({METHOD_LOC_MaxBound=17.5, METHOD_LOC_UpperQuartile=7.0},net.sourceforge.squirrel_sql.fw.dialects.OptionalSqlClauseTest,7.0,testOptionalSqlClauseStringTemplateStringString(),LongMethod)
+
+sql12 - test/src/net/sourceforge/squirrel_sql/fw/sql/dbobj/adapter/AdapterFactoryTest.java - testCreateBestRowIdentifierAdapter - 1 LongMethod(3.0,net.sourceforge.squirrel_sql.fw.sql.dbobj.adapter.AdapterFactoryTest,LongMethod,{METHOD_LOC_MaxBound=7.5, METHOD_LOC_UpperQuartile=3.0},testCreateBestRowIdentifierAdapter())
+
+sql12 - test/src/net/sourceforge/squirrel_sql/plugins/i18n/I18nBundleTest.java - testEqualsObject - 1 LongMethod(testEqualsObject(),net.sourceforge.squirrel_sql.plugins.i18n.I18nBundleTest,{METHOD_LOC_MaxBound=22.5, METHOD_LOC_UpperQuartile=9.0},LongMethod,9.0)
+
+sql12 - test/src/net/sourceforge/squirrel_sql/plugins/oracle/SGAtrace/SGATracePanelTest.java - testPopulateSGATrace - 1 LongMethod(net.sourceforge.squirrel_sql.plugins.oracle.SGAtrace.SGATracePanelTest,{METHOD_LOC_MaxBound=47.5, METHOD_LOC_UpperQuartile=19.0},testPopulateSGATrace(),LongMethod,19.0)
+
+sql12 - test/src/net/sourceforge/squirrel_sql/plugins/postgres/util/IndexParentInfoTest.java - testGetTableInfo - 1 LongMethod(testGetTableInfo(),{METHOD_LOC_MaxBound=17.5, METHOD_LOC_UpperQuartile=7.0},7.0,LongMethod,net.sourceforge.squirrel_sql.plugins.postgres.util.IndexParentInfoTest)
+
+sql12 - test/src/net/sourceforge/squirrel_sql/plugins/postgres/util/RelatedObjectInfoTest.java - testContstructor - 1 LongMethod(testContstructor(),6.0,LongMethod,net.sourceforge.squirrel_sql.plugins.postgres.util.RelatedObjectInfoTest,{METHOD_LOC_MaxBound=15.0, METHOD_LOC_UpperQuartile=6.0})
+
+sql12 - test/src/org/firebirdsql/squirrel/util/IndexParentInfoTest.java - testInit - 1 LongMethod(testInit(),6.0,LongMethod,{METHOD_LOC_MaxBound=15.0, METHOD_LOC_UpperQuartile=6.0},org.firebirdsql.squirrel.util.IndexParentInfoTest)
+

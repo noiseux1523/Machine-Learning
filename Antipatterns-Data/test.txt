@@ -1,0 +1,9 @@
+metrics-smells-psatd-msatd-apache-ant-1.7.0.csv
+metrics-smells-psatd-msatd-apache-jmeter-2.10.csv
+metrics-smells-psatd-msatd-argoUML-034.csv
+metrics-smells-psatd-msatd-columba-1.4-src.csv
+metrics-smells-psatd-msatd-hibernate-distribution-3.3.2.GA.csv
+metrics-smells-psatd-msatd-jEdit.csv
+metrics-smells-psatd-msatd-jfreechart-1.0.19.csv
+metrics-smells-psatd-msatd-jruby-1.4.0.csv
+metrics-smells-psatd-msatd-sql12.csv
